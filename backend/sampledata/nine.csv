@@ -1,0 +1,211 @@
+SurveyID,Age,Gender,State,Annual_Income_INR,Education_Level,Marital_Status,Internet_Access,Preferred_ECommerce,Weekly_Screen_Time_Hours,Satisfaction_Score
+1001,34,Male,Maharashtra,850000,Graduate,Married,1,Amazon,35,8
+1002,28,Female,Delhi,1200000,Postgraduate,Married,Yes,Flipkart,42,7
+1003,45,Male,Karnataka,600000,Graduate,Married,Yes,Amazon,,9
+1004,22,Female,Tamil Nadu,450000,Graduate,Unmarried,Yes,Myntra,50,6
+1005,51,,Uttar Pradesh,750000,High School,Married,No,None,15,5
+1006,30,Male,Gujarat,1500000,Postgraduate,Married,Yes,Flipkart,28,8
+1007,65,Female,West Bengal,300000,High School,Widowed,No,None,10,4
+1008,19,Male,Rajasthan,200000,High School,Unmarried,Yes,Amazon,60,7
+1009,40,Female,Andhra Pradesh,950000,Graduate,Married,Yes,Myntra,25,
+1010,25,Male,Kerala,1100000,Postgraduate,Unmarried,Yes,Flipkart,38,9
+1011,38,Female,Telangana,1300000,PhD,Married,Yes,Amazon,30,8
+1012,29,Male,Punjab,700000,Graduate,Married,Yes,Ajio,33,7
+1013,42,Female,Haryana,820000,Graduate,Married,Yes,Flipkart,20,6
+1014,150,Male,Madhya Pradesh,550000,Graduate,Married,Yes,Amazon,45,5
+1015,26,Female,Odisha,400000,Graduate,Unmarried,Yes,Myntra,55,7
+1016,33,M,Bihar,350000,High School,Married,No,None,12,3
+1017,48,Female,Assam,650000,Graduate,Married,Yes,Flipkart,22,
+1018,21,Male,Jharkhand,300000,High School,Unmarried,Yes,Amazon,70,6
+1019,55,Female,Chhattisgarh,450000,Illiterate,Widowed,No,None,5,2
+1020,31,Male,Uttarakhand,900000,Postgraduate,Married,1,Flipkart,32,8
+1021,27,Female,Himachal Pradesh,500000,Graduate,Unmarried,Yes,Ajio,48,7
+1022,46,Male,Goa,1800000,Postgraduate,Married,Yes,Amazon,40,9
+1023,36,Female,Jammu and Kashmir,400000,High School,Married,Yes,Flipkart,25,5
+1024,24,Male,Tripura,250000,High School,Unmarried,Yes,Amazon,65,7
+1025,58,F,Sikkim,750000,Graduate,Married,Yes,Myntra,18,6
+1026,39,Male,Manipur,600000,Graduate,Married,Yes,Flipkart,28,8
+1027,23,Female,Nagaland,300000,Graduate,Unmarried,Yes,Amazon,58,7
+1028,50,Male,Meghalaya,550000,High School,Married,No,None,8,4
+1029,32,Female,Arunachal Pradesh,400000,Graduate,Married,Yes,Ajio,30,7
+1030,41,Male,Mizoram,500000,Graduate,Married,Yes,Flipkart,24,8
+1031,20,Female,Puducherry,350000,High School,Unmarried,Yes,Amazon,62,6
+1032,thirty,Male,Maharashtra,900000,Postgraduate,Married,Yes,Amazon,29,9
+1033,29,Female,Delhi,1300000,PhD,Unmarried,Yes,Myntra,45,7
+1034,47,Male,Karnatak,700000,Graduate,Married,Yes,Flipkart,26,8
+1035,25,Female,Tamil Nadu,500000,Graduate,Single,Yes,Amazon,52,6
+1036,53,Male,Uttar Pradesh,800000,High School,Married,0,None,16,5
+1037,35,Female,Gujarat,1600000,Postgraduate,Married,Yes,Myntra,30,8
+1038,68,Male,West Bengal,320000,High School,Widowed,No,None,9,3
+1039,22,Female,Rajasthan,250000,High School,Unmarried,Yes,Amazon,68,7
+1040,43,Male,Andhra Pradesh,1000000,Postgraduate,Married,Yes,Flipkart,27,9
+1041,28,Female,Kerala,1200000,Postgraduate,Unmarried,Yes,Ajio,40,8
+1042,37,Male,Telangana,1400000,PhD,Married,Yes,Amazon,33,9
+1043,30,Female,Punjab,750000,Graduate,Married,Yes,Flipkart,35,7
+1044,44,Male,Haryana,880000,Graduate,Married,Yes,Myntra,22,6
+1045,5,Female,Madhya Pradesh,NA,Illiterate,Unmarried,No,None,2,1
+1046,27,Male,Odisha,420000,Graduate,Unmarried,Yes,Amazon,57,7
+1047,34,Female,Bihar,380000,High School,Married,No,None,14,4
+1048,49,Male,Assam,680000,Graduate,Divorced,Yes,Flipkart,24,5
+1049,23,Female,Jharkhand,320000,High School,Unmarried,Yes,Amazon,72,6
+1050,56,Male,Chhattisgarh,480000,Illiterate,Widowed,No,None,6,2
+1051,33,Female,Uttarakhand,950000,Postgraduate,Married,Yes,Ajio,34,8
+1052,29,Male,Himachal Pradesh,520000,Graduate,Unmarried,Yes,Flipkart,50,7
+1053,48,Female,Goa,1900000,Postgraduate,Divorced,Yes,Amazon,42,9
+1054,38,Male,Jammu and Kashmir,420000,High School,Married,Yes,Myntra,27,5
+1055,26,Female,Tripura,280000,High School,Unmarried,Yes,Amazon,67,7
+1056,60,Male,Sikkim,800000,Graduate,Married,Yes,Flipcart,20,6
+1057,41,Female,Manipur,620000,Graduate,Married,Yes,Flipkart,30,8
+1058,25,Male,Nagaland,320000,Graduate,Unmarried,Yes,Amazon,60,7
+1059,52,Female,Meghalaya,580000,High School,Married,No,None,10,4
+1060,34,Male,Arunachal Pradesh,420000,Graduate,Married,Yes,Ajio,32,7
+1061,43,Female,Mizoram,520000,Graduate,Married,Yes,Flipkart,26,8
+1062,22,Male,Puducherry,380000,High School,Unmarried,Yes,Amazon,64,6
+1063,33,Female,Maharastra,950000,Postgraduate,Married,1,Amazone,31,9
+1064,30,Male,Delhi,1400000,PhD,Unmarried,Yes,Myntra,47,7
+1065,49,Female,Karnataka,750000,Graduate,Divorced,Yes,Flipkart,28,8
+1066,27,Male,Tamil Nadu,550000,Graduate,Unmarried,Yes,Amazon,54,6
+1067,55,Female,Uttar Pradesh,850000,High School,Married,No,None,18,5
+1068,37,Male,Gujarat,1700000,Postgraduate,Married,Yes,Myntra,32,8
+1069,70,Female,West Bengal,340000,High School,Widowed,No,None,8,3
+1070,24,Male,Rajasthan,280000,High School,Unmarried,Yes,Amazon,70,7
+1071,45,Female,Andhra Pradesh,1050000,Postgraduate,Married,Yes,Flipkart,29,9
+1072,30,Male,Kerala,1300000,Postgraduate,Unmarried,Yes,Ajio,42,8
+1073,39,Female,Telangana,1500000,PhD,Married,Yes,Amazon,35,9
+1074,32,Male,Punjab,800000,Graduate,Married,Yes,Flipkart,37,7
+1075,46,Female,Haryana,900000,Graduate,Divorced,Yes,Myntra,24,6
+1076,28,Male,Madhya Pradesh,600000,Graduate,Married,Yes,Amazon,48,5
+1077,29,Female,Odisha,450000,Graduate,Unmarried,Yes,Amazon,59,7
+1078,36,M,Bihar,400000,High School,Married,0,None,16,4
+1079,51,Female,Assam,700000,Graduate,Married,Yes,Flipkart,26,6
+1080,25,Male,Jharkhand,350000,High School,Unmarried,Yes,Amazon,75,6
+1081,58,Female,Chhattisgarh,500000,Illiterate,Widowed,No,None,7,2
+1082,35,Male,Uttarakhand,1000000,Postgraduate,Married,Yes,Ajio,36,8
+1083,31,Female,Himachal Pradesh,550000,Graduate,Unmarried,Yes,Flipkart,52,7
+1almost,40,Male,Goa,2000000,Postgraduate,Married,Yes,Amazon,44,11
+1085,40,Female,Jammu and Kashmir,450000,High School,Married,Yes,Myntra,29,5
+1086,28,Male,Tripura,300000,High School,Unmarried,Yes,Amazon,69,7
+1087,62,Female,Sikkim,850000,Graduate,Married,Yes,Flipkart,22,6
+1088,43,Male,Manipur,650000,Graduate,Married,Yes,Flipkart,32,8
+1089,27,Female,Nagaland,350000,Graduate,Unmarried,Yes,Amazon,62,7
+1090,54,Male,Meghalaya,600000,High School,Married,No,None,12,4
+1091,36,Female,Arunachal Pradesh,450000,Graduate,Married,Yes,Ajio,34,7
+1092,45,Male,Mizoram,550000,Graduate,Married,Yes,Flipkart,28,8
+1093,24,Female,Puducherry,400000,High School,Unmarried,Yes,Amazon,66,6
+1094,35,Male,Maharashtra,99999999,Postgraduate,Married,Yes,Amazon,33,9
+1095,32,Female,Delhi,1500000,PhD,Unmarried,Yes,Myntra,49,7
+1096,51,Male,Karnataka,800000,Graduate,Divorced,Yes,Flipkart,30,8
+1097,29,Female,Tamil Nadu,600000,Graduate,Single,Yes,Amazon,56,6
+1098,57,Male,Uttar Pradesh,900000,High School,Married,No,None,20,5
+1099,39,Female,Gujarat,1800000,Postgraduate,Married,Yes,Myntra,34,8
+1100,72,Male,West Bengal,360000,High School,Widowed,No,None,7,3
+1101,26,Female,Rajasthan,300000,High School,Unmarried,Yes,Amazon,72,7
+1102,47,Male,Andhra Pradesh,1100000,Postgraduate,Married,Yes,Flipkart,31,9
+1103,32,Female,Kerala,1400000,Postgraduate,Unmarried,Yes,Ajio,44,8
+1104,41,Male,Telangana,1600000,PhD,Married,Yes,Amazon,37,9
+1105,34,Female,Punjab,850000,Graduate,Married,Yes,Flipkart,39,7
+1106,48,Male,Haryana,950000,Graduate,Divorced,Yes,Myntra,26,6
+1107,30,Female,Madhya Pradesh,650000,Graduate,Married,Yes,Amazon,50,5
+1108,31,Male,Odisha,480000,Graduate,Unmarried,Yes,Amazon,61,7
+1109,38,Female,Bihar,420000,High School,Married,No,None,18,4
+1110,53,Male,Assam,720000,Graduate,Married,Yes,Flipkart,28,6
+1111,27,Female,Jharkhand,380000,High School,Unmarried,Yes,Amazon,77,6
+1112,60,Male,Chhattisgarh,520000,Illiterate,Widowed,No,None,9,2
+1113,37,Female,Uttarakhand,1050000,Postgraduate,Married,Yes,Ajio,38,8
+1114,33,Male,Himachal Pradesh,580000,Graduate,Unmarried,Yes,Flipkart,54,7
+1115,50,Female,Goa,2100000,Postgraduate,Divorced,Yes,Amazon,46,9
+1116,42,Male,Jammu and Kashmir,480000,High School,Married,Yes,Myntra,31,5
+1117,30,Female,Tripura,320000,High School,Unmarried,Yes,Amazon,71,7
+1118,64,Male,Sikkim,900000,Graduate,Married,Yes,Flipkart,24,6
+1119,45,Female,Manipur,680000,Graduate,Married,Yes,Flipkart,34,8
+1120,29,Male,Nagaland,380000,Graduate,Unmarried,Yes,Amazon,64,7
+1121,56,Female,Meghalaya,620000,High School,Married,No,None,14,4
+1122,38,Male,Arunachal Pradesh,480000,Graduate,Married,Yes,Ajio,36,7
+1123,47,Female,Mizoram,580000,Graduate,Married,Yes,Flipkart,30,8
+1124,26,Male,Puducherry,420000,High School,Unmarried,Yes,Amazon,68,6
+1125,37,Female,Maharashtra,1100000,Postgraduate,Married,Yes,Amazon,35,9
+1126,34,Male,Delhi,1600000,PhD,Unmarried,Yes,Myntra,51,7
+1127,53,Female,Karnataka,850000,Graduate,Divorced,Yes,Flipkart,32,8
+1128,31,Male,Tamil Nadu,650000,Graduate,Unmarried,Yes,Amazon,58,6
+1129,59,Female,Uttar Pradesh,950000,High School,Married,No,None,22,5
+1130,41,Male,Gujarat,1900000,Postgraduate,Married,Yes,Myntra,36,8
+1131,74,Female,West Bengal,380000,High School,Widowed,No,None,6,3
+1132,28,Male,Rajasthan,320000,High School,Unmarried,Yes,Amazon,74,7
+1133,49,Female,Andhra Pradesh,1150000,Postgraduate,Married,Yes,Flipkart,33,9
+1134,34,Male,Kerala,1500000,Postgraduate,Unmarried,Yes,Ajio,46,8
+1135,43,Female,Telangana,1700000,PhD,Married,Yes,Amazon,39,9
+1136,36,Male,Punjab,900000,Graduate,Married,Yes,Flipkart,41,7
+1137,50,Female,Haryana,1000000,Graduate,Divorced,Yes,Myntra,28,6
+1138,32,Male,Madhya Pradesh,700000,Graduate,Married,Yes,Amazon,52,5
+1139,33,Female,Odisha,500000,Graduate,Unmarried,Yes,Amazon,63,7
+1140,40,Male,Bihar,450000,High School,Married,No,None,20,4
+1141,55,Female,Assam,750000,Graduate,Married,Yes,Flipkart,30,6
+1142,29,Male,Jharkhand,400000,High School,Unmarried,Yes,Amazon,79,6
+1143,62,Female,Chhattisgarh,550000,Illiterate,Widowed,NULL,None,8,2
+1144,39,Male,Uttarakhand,1100000,Postgraduate,Married,Yes,Ajio,40,8
+1145,35,Female,Himachal Pradesh,600000,Graduate,Unmarried,Yes,Flipkart,56,7
+1146,52,Male,Goa,2200000,Postgraduate,Divorced,Yes,Amazon,48,9
+1147,44,Female,Jammu and Kashmir,500000,High School,Married,Yes,Myntra,33,5
+1148,32,Male,Tripura,350000,High School,Unmarried,Yes,Amazon,73,7
+1149,66,Female,Sikkim,950000,Graduate,Married,Yes,Flipkart,26,6
+1150,47,Male,Manipur,700000,Graduate,Married,Yes,Flipkart,36,8
+1151,31,Female,Nagaland,400000,Graduate,Unmarried,Yes,Amazon,66,7
+1152,58,Male,Meghalaya,650000,High School,Married,No,None,16,4
+1153,40,Female,Arunachal Pradesh,500000,Graduate,Married,Yes,Ajio,38,7
+1154,49,Male,Mizoram,600000,Graduate,Married,Yes,Flipkart,32,8
+1155,28,Female,Puducherry,450000,High School,Unmarried,Yes,Amazon,70,6
+1156,39,Male,Maharashtra,1150000,Postgraduate,Married,Yes,Amazon,37,9
+1157,36,Female,Delhi,1700000,PhD,Unmarried,Yes,Myntra,53,7
+1158,55,Male,Karnataka,900000,Graduate,Divorced,Yes,Flipkart,34,8
+1159,33,Female,Tamil Nadu,700000,Graduate,Unmarried,Yes,Amazon,60,6
+1160,61,Male,Uttar Pradesh,1000000,High School,Married,No,None,24,5
+1161,43,Female,Gujarat,2000000,Postgraduate,Married,Yes,Myntra,38,8
+1162,76,Male,West Bengal,400000,High School,Widowed,No,None,5,3
+1163,30,Female,Rajasthan,350000,High School,Unmarried,Yes,Amazon,76,7
+1164,51,Male,Andhra Pradesh,1200000,Postgraduate,Married,Yes,Flipkart,35,9
+1165,36,Female,Kerala,1600000,Postgraduate,Unmarried,Yes,Ajio,48,8
+1166,45,Male,Telangana,1800000,PhD,Married,Yes,Amazon,41,9
+1167,38,Female,Punjab,950000,Graduate,Married,Yes,Flipkart,43,7
+1168,52,Male,Haryana,1050000,Graduate,Divorced,Yes,Myntra,30,6
+1169,34,Female,Madhya Pradesh,750000,Graduate,Married,Yes,Amazon,54,5
+1170,35,Male,Odisha,520000,Graduate,Unmarried,Yes,Amazon,65,7
+1171,42,Female,Bihar,480000,High School,Married,No,None,22,4
+1172,57,Male,Assam,780000,Graduate,Married,Yes,Flipkart,32,6
+1173,31,Female,Jharkhand,420000,High School,Unmarried,Yes,Amazon,81,6
+1174,64,Male,Chhattisgarh,580000,Illiterate,Widowed,No,None,10,2
+1175,41,Female,Uttarakhand,1150000,Postgraduate,Married,Yes,Ajio,42,8
+1176,37,Male,Himachal Pradesh,620000,Graduate,Unmarried,Yes,Flipkart,58,7
+1177,54,Female,Goa,2300000,Postgraduate,Divorced,Yes,Amazon,50,9
+1178,46,Male,Jammu and Kashmir,520000,High School,Married,Yes,Myntra,35,5
+1179,34,Female,Tripura,380000,High School,Unmarried,Yes,Amazon,75,7
+1180,68,Male,Sikkim,1000000,Graduate,Married,Yes,Flipkart,28,6
+1181,49,Female,Manipur,720000,Graduate,Married,Yes,Flipkart,38,8
+1182,33,Male,Nagaland,420000,Graduate,Unmarried,Yes,Amazon,68,7
+1183,60,Female,Meghalaya,680000,High School,Married,No,None,18,4
+1184,42,Male,Arunachal Pradesh,520000,Graduate,Married,Yes,Ajio,40,7
+1185,51,Female,Mizoram,620000,Graduate,Married,Yes,Flipkart,34,8
+1186,30,Male,Puducherry,480000,High School,Unmarried,Yes,Amazon,72,6
+1187,41,Female,Maharashtra,1200000,Postgraduate,Married,Yes,Amazon,39,9
+1188,38,Male,Delhi,1800000,PhD,Unmarried,Yes,Myntra,55,7
+1189,57,Female,Karnataka,950000,Graduate,Divorced,Yes,Flipkart,36,8
+1190,35,Male,Tamil Nadu,750000,Graduate,Unmarried,Yes,Amazon,62,6
+1191,63,Female,Uttar Pradesh,1050000,High School,Married,No,None,26,5
+1192,45,Male,Gujarat,2100000,Postgraduate,Married,Yes,Myntra,40,8
+1193,78,Female,West Bengal,420000,High School,Widowed,No,None,4,3
+1194,32,Male,Rajasthan,380000,High School,Unmarried,Yes,Amazon,78,7
+1195,53,Female,Andhra Pradesh,1250000,Postgraduate,Married,Yes,Flipkart,37,9
+1196,38,Male,Kerala,1700000,Postgraduate,Unmarried,Yes,Ajio,50,8
+1197,47,Female,Telangana,1900000,PhD,Married,Yes,Amazon,43,9
+1198,40,Male,Punjab,1000000,Graduate,Married,Yes,Flipkart,45,7
+1199,54,Female,Haryana,1100000,Graduate,Divorced,Yes,Myntra,32,6
+1200,36,Male,Madhya Pradesh,800000,Graduate,Married,Yes,Amazon,56,5
+1201,37,Female,Odisha,550000,Graduate,Unmarried,Yes,Amazon,67,7
+1202,44,Male,Bihar,500000,High School,Married,No,None,24,4
+1203,59,Female,Assam,800000,Graduate,Married,Yes,Flipkart,34,6
+1204,33,Male,Jharkhand,450000,High School,Unmarried,Yes,Amazon,83,6
+1205,66,Female,Chhattisgarh,600000,Illiterate,Widowed,No,None,12,2
+1206,43,Male,Uttarakhand,1200000,Postgraduate,Married,Yes,Ajio,44,8
+1207,39,Female,Himachal Pradesh,650000,Graduate,Unmarried,Yes,Flipkart,60,7
+1208,56,Male,Goa,2400000,Postgraduate,Divorced,Yes,Amazon,52,9
+1209,48,Female,Jammu and Kashmir,550000,High School,Married,Yes,Myntra,37,5
+1210,36,Male,Tripura,400000,High School,Unmarried,Yes,Amazon,77,7

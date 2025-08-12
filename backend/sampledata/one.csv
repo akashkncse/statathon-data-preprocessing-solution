@@ -1,0 +1,221 @@
+SurveyID,Age,Gender,State,AnnualIncome_INR,InternetAccess_HoursPerDay,Satisfaction_Score_1_to_5,PrimaryLanguage,Owns_Smartphone,SurveyDate
+IND001,34,Male,Maharashtra,750000,4,4,Marathi,Yes,2024-05-01
+IND002,28,Female,Delhi,900000,6,5,Hindi,Y,2024-05-01
+IND003,45,Male,Karnataka,1200000,3,4,Kannada,Yes,2024-05-01
+IND004,22,Female,West Bengal,550000,8,3,Bengali,Yes,2024-05-02
+IND005,67,Male,Tamil Nadu,600000,2,5,Tamil,No,2024-05-02
+IND006,31,NA,Uttar Pradesh,800000,5,4,Hindi,Yes,2024-05-02
+IND007,25,Female,Rajasthan,450000,7,2,Hindi,Yes,2024-05-03
+IND008,52,Male,Gujarat,1500000,2,5,Gujarati,Yes,2024-05-03
+IND009,19,Female,Kerala,NA,10,3,Malayalam,Yes,2024-05-03
+IND010,41,Male,Maharastra,950000,4,4,Marathi,Yes,2024-05-04
+IND011,150,Male,Punjab,700000,1,5,Punjabi,No,2024-05-04
+IND012,38,Female,Haryana,850000,5,4,Hindi,Yes,05/05/2024
+IND013,29,Male,Telangana,1100000,7,3,Telugu,Y,2024-05-05
+IND014,33,Female,Andhra Pradesh,750000,6,NA,Telugu,Yes,2024-05-05
+IND015,48,M,Madhya Pradesh,650000,3,2,Hindi,No,2024-05-05
+IND016,26,Female,Odisha,500000,five,4,Odia,Yes,2024-05-06
+IND017,-5,Male,Assam,400000,4,3,Assamese,Yes,2024-05-06
+IND018,65,Female,Bihar,300000,1,5,Hindi,N,2024-05-06
+IND019,23,Male,Chhattisgarh,450000,8,2,Hindi,Yes,2024-05-07
+IND020,39,Female,Jharkhand,550000,3,4,Hindi,Yes,2024-05-07
+IND021,30,Male,Delhi,1000000,6,5,Hindi,Yes,2024-05-08
+IND022,27,F,Karnatka,950000,7,3,Kannada,Yes,2024-05-08
+IND023,42,Male,Maharashtra,1300000,4,4,Marathi,Yes,2024-05-08
+IND024,55,Female,West Bengal,700000,2,5,Bengali,No,09/05/2024
+IND025,21,Male,Tamil Nadu,650000,9,2,Tamil,Yes,2024-05-09
+IND026,36,Female,Uttar Pradesh,null,6,3,Hindi,Yes,2024-05-09
+IND027,49,Male,Rajasthan,500000,4,4,Hindi,Yes,2024-05-10
+IND028,24,Female,Gujarat,1600000,8,7,Gujarati,Yes,2024-05-10
+IND029,62,Male,Kerala,800000,2,5,Malayalam,No,2024-05-10
+IND030,32,Female,Punjab,750000,5,4,Punjabi,Yes,2024-05-11
+IND031,44,Male,Haryana,900000,4,3,Hindi,Yes,2024-05-11
+IND032,28,Female,Telangana,1200000,7,4,Telugu,Yes,2024-02-30
+IND033,37,Male,Andhra Pradesh,800000,6,5,Telugu,Yes,2024-05-12
+IND034,51,Female,Madhya Pradesh,700000,3,2,Hindi,No,2024-05-12
+IND035,20,Male,Odisha,NA,9,3,Odia,Yes,2024-05-12
+IND036,46,Female,Assam,450000,4,4,Assamese,Yes,2024-05-13
+IND037,68,Male,Bihar,350000,1,5,Hindi,N,2024-05-13
+IND038,25,Female,Chhattisgarh,500000,8,2,Hindi,Yes,2024-05-13
+IND039,40,Male,Jharkhand,600000,3,4,Hindi,Yes,2024-05-14
+IND040,35,Female,Maharashtra,800000,5,4,Marathi,Yes,2024-05-14
+IND041,29,Male,Delhi,950000,30,5,Hindi,Yes,15/05/2024
+IND042,47,Female,Karnataka,1150000,3,4,Kannada,Yes,2024-05-15
+IND043,23,Male,West Bengal,600000,8,3,Bengali,Yes,2024-05-15
+IND044,58,Female,Tamil Nadu,750000,2,5,Tamil,No,2024-05-16
+IND045,34,Male,Uttar Pradesh,850000,6,4,Hindi,Yes,2024-05-16
+IND046,26,Female,Rajasthan,400000,7,2,Hindi,Yes,2024-05-16
+IND047,53,Male,Gujarat,5000000000,2,5,Gujarati,Yes,2024-05-17
+IND048,22,Female,Kerala,900000,10,3,Malayalam,Yes,2024-05-17
+IND049,43,Male,Punjab,800000,4,NA,Punjabi,Yes,2024-05-17
+IND050,30,Female,Haryana,950000,5,4,Hindi,Yes,2024-05-18
+IND051,45,Male,Telangana,1300000,7,3,Telugu,Y,2024-05-18
+IND052,31,F,Andhra Pradesh,700000,6,5,Telugu,Yes,19/05/2024
+IND053,50,Male,Madhya Pradesh,600000,3,2,Hindi,No,2024-05-19
+IND054,27,Female,Odisha,550000,9,4,Odia,Yes,2024-05-19
+IND055,48,Male,Assam,500000,4,3,Assamese,Yes,2024-05-20
+IND056,69,Female,Bihar,400000,1,5,Hindi,N,2024-05-20
+IND057,24,Male,Chhattisgarh,550000,8,2,Hindi,Yes,2024-05-20
+IND058,41,Female,Jharkhand,650000,-2,4,Hindi,Yes,2024-05-21
+IND059,36,Male,Maharashtra,850000,5,4,Marathi,Yes,2024-05-21
+IND060,28,Female,Delhi NCR,1100000,6,5,Hindi,Yes,2024-05-22
+IND061,49,Male,Karnataka,1250000,3,4,Kannada,Yes,2024-05-22
+IND062,25,Female,West Bengal,650000,8,3,Bengali,Yes,2024-05-22
+IND063,60,Male,Tamil Nadu,800000,2,5,Tamil,No,2024-05-23
+IND064,33,Female,Uttar Pradesh,900000,6,4,Hindi,Yes,2024-05-23
+IND065,27,Male,Rajasthan,450000,7,2,Hindi,Yes,23/05/2024
+IND066,54,Female,Gujarat,1700000,2,5,Gujarati,Yes,2024-05-24
+IND067,21,Male,Kerala,NA,10,0,Malayalam,Yes,2024-05-24
+IND068,44,Female,Punjab,850000,4,4,Punjabi,Yes,2024-05-24
+IND069,32,Male,Haryana,1000000,5,3,Hindi,Yes,2024-05-25
+IND070,46,Female,Telangana,1350000,7,4,Telugu,Yes,2024-05-25
+IND071,30,Male,Andhra Pradesh,750000,6,5,Telugu,Yes,2024-05-25
+IND072,52,Female,Madhya Pradesh,750000,3,2,Hindi,No,2024-05-26
+IND073,26,Male,Odisha,600000,9,3,Odia,Yes,2024-05-26
+IND074,47,Female,Assam,NA,4,4,Assamese,Yes,2024-05-26
+IND075,70,Male,Bihar,450000,1,5,Hindi,N,2024-05-27
+IND076,23,Female,Chhattisgarh,600000,8,2,Hindi,Yes,2024-05-27
+IND077,38,Male,Jharkhand,700000,3,4,Hindi,Yes,2024-05-27
+IND078,35,Female,Maharashtra,900000,5,4,Marathi,Yes,2024-05-28
+IND079,29,Male,Delhi,1150000,6,5,Hindi,Y,2024-05-28
+IND080,48,Female,Karnataka,1300000,3,4,Kannada,Yes,28/05/2024
+IND081,24,Male,West Bengal,700000,8,3,Bengali,Yes,2024-05-29
+IND082,59,Female,Tamil Nadu,850000,2,5,Tamil,No,2024-05-29
+IND083,34,Male,Uttar Pradesh,950000,6,4,Hindi,Yes,2024-05-29
+IND084,28,Female,Rajasthan,500000,7,2,Hindi,Yes,2024-05-30
+IND085,55,Male,Gujarat,1800000,2,5,Gujarati,Yes,2024-05-30
+IND086,20,Female,Kerala,950000,10,3,Malayalam,Yes,2024-05-30
+IND087,45,Male,Punjab,900000,4,4,Punjabi,Yes,2024-05-31
+IND088,31,Female,Haryana,1050000,5,3,Hindi,Yes,2024-05-31
+IND089,47,Male,Telangana,1400000,7,4,Telugu,Yes,2024-05-31
+IND090,32,Female,Andhra Pradesh,800000,6,5,Telugu,Yes,NA
+IND091,53,Male,Madhya Pradesh,800000,3,2,Hindi,No,2024-06-01
+IND092,25,Female,Odisha,650000,9,3,Odia,Yes,2024-06-01
+IND093,49,Male,Assam,600000,4,4,Assamese,Yes,2024-06-02
+IND094,72,Female,Bihar,500000,1,5,HINDI,N,2024-06-02
+IND095,22,Male,Chhattisgarh,650000,8,2,Hindi,Yes,2024-06-02
+IND096,37,Female,Jharkhand,750000,3,4,Hindi,Yes,2024-06-03
+IND097,36,Male,Maharashtra,950000,5,4,Marathi,Yes,2024-06-03
+IND098,30,Female,Delhi,1200000,6,5,Hindi,Yes,2024-06-03
+IND099,50,Male,Karnatka,1350000,3,4,Kannada,Yes,04/06/2024
+IND100,26,Female,West Bengal,750000,8,3,Bengali,Yes,2024-06-04
+IND101,61,Male,Tamil Nadu,900000,2,5,Tamil,No,2024-06-04
+IND102,35,Female,Uttar Pradesh,1000000,6,4,Hindi,Yes,2024-06-05
+IND103,29,Male,Rajasthan,550000,7,2,Hindi,Yes,2024-06-05
+IND104,56,Female,Gujarat,1900000,2,5,Gujarati,Yes,2024-06-05
+IND105,21,Male,Kerala,1000000,10,3,Malayalam,Yes,2024-06-06
+IND106,46,Female,Punjab,950000,4,4,Punjabi,Yes,2024-06-06
+IND107,33,Male,Haryana,1100000,5,3,Hindi,Yes,2024-06-06
+IND108,48,Female,Telangana,1450000,7,4,Telugu,Yes,2024-06-07
+IND109,33,Male,Andhra Pradesh,850000,6,5,Telugu,Yes,2024-06-07
+IND110,54,Female,Madhya Pradesh,850000,3,2,Hindi,No,2024-06-07
+IND111,27,Male,Odisha,700000,9,3,Odia,Yes,2024-06-08
+IND112,50,Female,Assam,650000,4,4,Assamese,Yes,2024-06-08
+IND113,74,Male,Bihar,550000,1,5,-,N,2024-06-08
+IND114,24,Female,Chhattisgarh,700000,8,2,Hindi,Yes,2024-06-09
+IND115,39,Male,Jharkhand,800000,3,4,Hindi,Yes,2024-06-09
+IND116,37,Female,Maharashtra,1000000,5,4,Marathi,Yes,2024-06-09
+IND117,31,Male,Delhi,1250000,6,5,Hindi,Yes,2024-06-10
+IND118,51,Female,Karnataka,1400000,3,4,Kannada,Yes,2024-06-10
+IND119,25,Male,West Bengal,800000,8,3,Bengali,Yes,11/06/2024
+IND120,62,Female,Tamil Nadu,950000,2,5,Tamil,No,2024-06-11
+IND121,36,Male,Uttar Pradesh,1050000,6,4,Hindi,Yes,2024-06-11
+IND122,30,Female,Rajasthan,600000,7,2,Hindi,Yes,2024-06-12
+IND123,57,Male,Gujarat,2000000,2,5,Gujarati,Yes,2024-06-12
+IND124,22,Female,Kerala,1050000,10,3,Malayalam,Yes,2024-06-12
+IND125,47,Male,Punjab,1000000,4,4,Punjabi,Yes,2024-06-13
+IND126,34,Female,Haryana,1150000,5,3,Hindi,Yes,2024-06-13
+IND127,49,Male,Telangana,1500000,7,4,Telugu,Yes,2024-06-13
+IND128,34,Female,Andhra Pradesh,900000,6,5,Telugu,Yes,2024-06-14
+IND129,55,Male,Madhya Pradesh,900000,3,2,Hindi,No,2024-06-14
+IND130,28,Female,Odisha,750000,9,3,Odia,Yes,2024-06-14
+IND131,51,Male,Assam,700000,4,4,Assamese,Yes,2024-06-15
+IND132,76,Female,Bihar,600000,1,5,Bhojpuri,N,15/06/2024
+IND133,23,Male,Chhattisgarh,750000,8,2,Hindi,Yes,2024-06-15
+IND134,40,Female,Jharkhand,850000,3,4,Hindi,Yes,2024-06-16
+IND135,38,Male,Maharashtra,1050000,5,4,Marathi,Yes,2024-06-16
+IND136,32,Female,Delhi,1300000,6,5,Hindi,Yes,2024-06-16
+IND137,52,Male,Karnataka,1450000,3,4,Kannada,Yes,2024-06-17
+IND138,26,Female,West Bengal,850000,8,3,Bengali,Yes,2024-06-17
+IND139,63,Male,Tamil Nadu,1000000,2,5,Tamil,No,2024-06-17
+IND140,37,Female,Uttar Pradesh,1100000,6,4,Hindi,Yes,2024-06-18
+IND141,31,Male,Rajasthan,650000,7,2,Hindi,Yes,2024-06-18
+IND142,58,Female,Gujarat,2100000,2,5,Gujarati,Yes,2024-06-18
+IND143,24,Male,Kerala,1100000,10,3,Malayalam,Yes,2024-06-19
+IND144,48,Female,Punjab,1050000,4,4,Punjabi,Yes,2024-06-19
+IND145,35,Male,Haryana,1200000,5,3,Hindi,Yes,2024-06-19
+IND146,50,Female,Telangana,1550000,7,4,Telugu,Yes,20/06/2024
+IND147,35,Male,Andhra Pradesh,950000,6,5,Telugu,Yes,2024-06-20
+IND148,56,Female,Madhya Pradesh,950000,3,2,Hindi,No,2024-06-20
+IND149,29,Male,Odisha,800000,9,3,Odia,Yes,2024-06-21
+IND150,52,Female,Assam,750000,4,4,Assamese,Yes,2024-06-21
+IND151,78,Male,Bihar,650000,1,5,Hindi,N,2024-06-21
+IND152,25,Female,Chhattisgarh,800000,8,2,Hindi,Yes,2024-06-22
+IND153,41,Male,Jharkhand,900000,3,4,Hindi,Yes,2024-06-22
+IND154,39,Female,Maharashtra,1100000,5,4,Marathi,Yes,2024-06-22
+IND155,33,Male,Delhi,1350000,6,5,Hindi,Yes,2024-06-23
+IND156,53,Female,Karnataka,1500000,3,4,Kannada,Yes,2024-06-23
+IND157,27,Male,West Bengal,900000,8,3,Bengali,Yes,2024-06-23
+IND158,64,Female,Tamil Nadu,1050000,2,5,Tamil,No,24/06/2024
+IND159,38,Male,Uttar Pradesh,1150000,6,4,Hindi,Yes,2024-06-24
+IND160,32,Female,Rajasthan,700000,7,2,Hindi,Yes,2024-06-24
+IND161,59,Male,Gujarat,2200000,2,5,Gujarati,Yes,2024-06-25
+IND162,26,Female,Kerala,1150000,10,3,Malayalam,Yes,2024-06-25
+IND163,49,Male,Punjab,1100000,4,4,Punjabi,Yes,2024-06-25
+IND164,36,Female,Haryana,1250000,5,3,Hindi,Yes,2024-06-26
+IND165,51,Male,Telangana,1600000,7,4,Telugu,Yes,2024-06-26
+IND166,36,Female,Andhra Pradesh,1000000,6,5,Telugu,Yes,2024-06-26
+IND167,57,Male,Madhya Pradesh,1000000,3,2,Hindi,No,2024-06-27
+IND168,30,Female,Odisha,850000,9,3,Odia,Yes,2024-06-27
+IND169,53,Male,Assam,800000,4,4,Assamese,Yes,2024-06-27
+IND170,80,Female,Bihar,700000,1,5,Hindi,N,2024-06-28
+IND171,26,Male,Chhattisgarh,850000,8,2,Hindi,Yes,2024-06-28
+IND172,42,Female,Jharkhand,950000,3,4,Hindi,Yes,28/06/2024
+IND173,40,Male,Maharashtra,1150000,5,4,Marathi,Yes,2024-06-29
+IND174,34,Female,Delhi,1400000,6,5,Hindi,Yes,2024-06-29
+IND175,54,Male,Karnataka,1550000,3,4,Kannada,Yes,2024-06-29
+IND176,28,Female,West Bengal,950000,8,3,Bengali,Yes,2024-06-30
+IND177,65,Male,Tamil Nadu,1100000,2,5,Tamil,No,2024-06-30
+IND178,39,Female,Uttar Pradesh,1200000,6,4,Hindi,Yes,2024-06-30
+IND179,33,Male,Rajasthan,750000,7,2,Hindi,Yes,2024-07-01
+IND180,60,Female,Gujarat,2300000,2,5,Gujarati,Yes,2024-07-01
+IND181,27,Male,Kerala,1200000,10,3,Malayalam,Yes,2024-07-01
+IND182,50,Female,Punjab,1150000,4,4,Punjabi,Yes,2024-07-02
+IND183,37,Male,Haryana,1300000,5,3,Hindi,Yes,2024-07-02
+IND184,52,Female,Telangana,1650000,7,4,Telugu,Yes,2024-07-02
+IND185,37,Male,Andhra Pradesh,1050000,6,5,Telugu,Yes,03/07/2024
+IND186,58,Female,Madhya Pradesh,1050000,3,2,Hindi,No,2024-07-03
+IND187,31,Male,Odisha,900000,9,3,Odia,Yes,2024-07-03
+IND188,54,Female,Assam,850000,4,4,Assamese,Yes,2024-07-04
+IND189,82,Male,Bihar,750000,1,5,Hindi,N,2024-07-04
+IND190,27,Female,Chhattisgarh,900000,8,2,Hindi,Yes,2024-07-04
+IND191,43,Male,Jharkhand,1000000,3,4,Hindi,Yes,2024-07-05
+IND192,41,Female,Maharashtra,1200000,5,4,Marathi,Yes,2024-07-05
+IND193,35,Male,Delhi,1450000,6,5,Hindi,Yes,2024-07-05
+IND194,55,Female,Karnataka,1600000,3,4,Kannada,Yes,2024-07-06
+IND195,29,Male,West Bengal,1000000,8,3,Bengali,Yes,2024-07-06
+IND196,66,Female,Tamil Nadu,1150000,2,5,Tamil,No,2024-07-06
+IND197,40,Male,Uttar Pradesh,1250000,6,4,Hindi,Yes,2024-07-07
+IND198,34,Female,Rajasthan,800000,7,2,Hindi,Yes,07/07/2024
+IND199,61,Male,Gujarat,2400000,2,5,Gujarati,Yes,2024-07-07
+IND200,28,Female,Kerala,1250000,10,3,Malayalam,Yes,2024-07-08
+IND201,51,Male,Punjab,1200000,4,4,Punjabi,Yes,2024-07-08
+IND202,38,Female,Haryana,1350000,5,3,Hindi,Yes,2024-07-08
+IND203,53,Male,Telangana,1700000,7,4,Telugu,Yes,2024-07-09
+IND204,38,Female,Andhra Pradesh,1100000,6,5,Telugu,Yes,2024-07-09
+IND205,59,Male,Madhya Pradesh,1100000,3,2,Hindi,No,2024-07-09
+IND206,32,Female,Odisha,950000,9,3,Odia,Yes,2024-07-10
+IND207,55,Male,Assam,900000,4,4,Assamese,Yes,2024-07-10
+IND208,84,Female,Bihar,800000,1,5,Hindi,N,2024-07-10
+IND209,28,Male,Chhattisgarh,950000,8,2,Hindi,Yes,2024-07-11
+IND210,44,Female,Jharkhand,1050000,3,4,Hindi,Yes,2024-07-11
+IND211,42,Male,Maharashtra,1250000,5,4,Marathi,Yes,12/07/2024
+IND212,36,Female,Delhi,1500000,6,5,Hindi,Yes,2024-07-12
+IND213,56,Male,Karnataka,1650000,3,4,Kannada,Yes,2024-07-12
+IND214,30,Female,West Bengal,1050000,8,3,Bengali,Yes,2024-07-13
+IND215,67,Male,Tamil Nadu,1200000,2,5,Tamil,No,2024-07-13
+IND216,41,Female,Uttar Pradesh,1300000,6,4,Hindi,Yes,2024-07-13
+IND217,35,Male,Rajasthan,850000,7,2,Hindi,Yes,2024-07-14
+IND218,62,Female,Gujarat,2500000,2,5,Gujarati,Yes,2024-07-14
+IND219,29,Male,Kerala,1300000,10,3,Malayalam,Yes,2024-07-14
+IND220,52,Female,Punjab,1250000,4,4,Punjabi,Yes,2024-07-15

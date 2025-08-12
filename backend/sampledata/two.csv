@@ -1,0 +1,211 @@
+Survey_ID,Age,Gender,City,State,Occupation,Monthly_Income_INR,Num_Family_Members,Owns_Vehicle,Satisfaction_Score
+1,28,Male,Mumbai,Maharashtra,Engineer,60000,4,Yes,8
+2,35,Female,Delhi,Delhi,Doctor,95000,3,Yes,9
+3,42,Male,Bengaluru,Karnataka,Businessman,120000,5,No,7
+4,22,Female,Chennai,Tamil Nadu,Student,5000,2,No,6
+5,55,male,Hyderabad,Telangana,Government Employee,80000,4,yes,8
+6,31,Male,Pune,Maharashtra,IT Professional,75000,3,Yes,7
+7,48,Female,Kolkata,West Bengal,Teacher,50000,4,No,8
+8,25,M,Ahmedabad,Gujarat,Architect,65000,2,Yes,9
+9,60,F,Jaipur,Rajasthan,Retired,30000,2,Yes,10
+10,29,Male,Lucknow,Uttar Pradesh,Lawyer,70000,3,no,7
+11,33,Female,Chandigarh,Punjab,Designer,55000,2,Yes,8
+12,19,Male,Bhopal,Madhya Pradesh,Student,2000,1,No,5
+13,45,Male,Mumbai,MH,Doctor,150000,4,Yes,9
+14,38,Female,Delhi,Delhi NCR,Marketing Manager,85000,3,Yes,7
+15,51,Male,Bengaluru,KA,Consultant,110000,2,Yes,8
+16,27,Female,chennai,Tamil Nadu,Software Engineer,68000,3,No,7
+17,39,Male,hyderabad,Telangana,Sales Executive,60000,4,Yes,6
+18,44,Female,Pune,Maharashtra,Homemaker,,5,No,8
+19,23,Male,Kolkata,West Bengal,Analyst,45000,2,yes,7
+20,58,Female,Ahmedabad,GJ,Professor,90000,2,Yes,9
+21,32,Male,Jaipur,Rajasthan,Artist,40000,1,No,8
+22,26,F,Lucknow,UP,Journalist,48000,2,No,7
+23,41,M,Chandigarh,Punjab,Banker,78000,4,Yes,8
+24,20,Male,Bhopal,MP,Student,,1,No,6
+25,49,Male,Mumbai,Maharashtra,Engineer,130000,5,Yes,9
+26,36,Female,Delhi,Delhi,Doctor,100000,3,Yes,10
+27,thirty-five,Male,Bengaluru,Karnataka,Businessman,140000,4,No,7
+28,24,Female,Chennai,TN,Student,6000,2,No,6
+29,57,Male,Hyderabad,Telangana,Govt. Employee,82000,4,Yes,8
+30,30,Male,Pune,Maharashtra,IT Professional,78000,3,Yes,7
+31,47,Female,Kolkata,WB,Teacher,52000,4,No,8
+32,28,Male,Ahmedabad,Gujarat,Architect,67000,2,Yes,9
+33,62,Female,Jaipur,RJ,Retired,32000,2,Yes,10
+34,31,Male,Lucknow,Uttar Pradesh,Lawyer,72000,3,No,7
+35,34,Female,Chandigarh,CH,Designer,58000,2,Yes,8
+36,18,Male,Bhopal,Madhya Pradesh,Student,2500,1,No,5
+37,46,Male,mumbai,Maharashtra,Doctor,160000,4,Yes,9
+38,NA,Female,Delhi,Delhi,Marketing Manager,88000,3,Yes,7
+39,52,Male,Bengaluru,Karnataka,Consultant,115000,2,Yes,8
+40,29,Female,Chennai,Tamil Nadu,Software Engineer,70000,3,No,7
+41,40,Male,Hyderabad,TG,Sales Executive,62000,4,Yes,6
+42,43,Female,Pune,MH,Homemaker,NaN,5,No,8
+43,21,Male,Kolkata,West Bengal,Analyst,47000,2,Yes,7
+44,59,Female,Ahmedabad,Gujarat,Professor,92000,2,Yes,9
+45,34,Male,Jaipur,Rajasthan,Artist#,42000,1,No,8
+46,27,Female,Lucknow,UP,Journalist,50000,2,No,7
+47,43,Male,Chandigarh,Punjab,Banker,80000,4,YES,8
+48,22,Male,Bhopal,MP,Student,3000,1,NO,6
+49,150,Male,Mumbai,Maharashtra,Engineer,135000,5,Yes,9
+50,37,Female,Delhi,DL,Doctor,105000,3,Yes,10
+51,44,Male,Bengaluru,KA,Businessman,145000,4,No,7
+52,26,Female,Chennai,Tamil Nadu,Student,7000,2,No,6
+53,56,Male,Hyderabad,Telangana,Government Employee,84000,4.5,Yes,8
+54,32,Male,Pune,Maharashtra,IT Professional,80000,3,Yes,7
+55,49,Female,Kolkata,West Bengal,Teacher,54000,4,No,8
+56,26,Male,Ahmedabad,Gujarat,Architect,69000,2,Yes,9
+57,61,Female,Jaipur,Rajasthan,Retired,34000,2,Yes,10
+58,33,Male,Lucknow,Uttar Pradesh,Lawyer,74000,3,No,7
+59,36,Female,Chandigarh,Punjab,Designer,60000,2,Yes,8
+60,20,Male,Bhopal,Madhya Pradesh,Student,NULL,1,No,5
+61,47,Male,Mumbai,Maharashtra,Doctor,165000,4,Yes,9
+62,40,Female,Delhi,Delhi,Marketing Manager,90000,3,Yes,7
+63,53,Male,Bengaluru,Karnataka,Consultant,120000,2,Yes,8
+64,30,Female,Chennai,TN,Software Engineer,72000,3,No,7
+65,41,Male,Hyderabad,TG,Sales Executive,64000,4,Yes,6
+66,46,Female,Pune,Maharashtra,Homemaker,20000,5,No,8
+67,24,Male,Kolkata,WB,Analyst,49000,2,Yes,7
+68,60,Female,Ahmedabad,GJ,Professor,94000,2,Yes,9
+69,35,Male,Jaipur,RJ,Artist,44000,1,No,8
+70,28,Female,Lakhnow,Uttar Pradesh,Journalist,52000,2,No,7
+71,44,Male,Chandigarh,CH,Banker,82000,4,Yes,8
+72,23,Male,Bhopal,Madhya Pradesh,Student,4000,1,No,6
+73,48,Male,Mumbai,MH,Engineer,140000,5,Yes,9
+74,39,Female,Delhi,Delhi NCR,Doctor,110000,3,Yes,10
+75,54,Male,Bangalore,Karnataka,Businessman,150000,4,No,7
+76,28,Female,Chennai,Tamil Nadu,Student,8000,2,No,6
+77,58,Male,Hyderabad,Telangana,Government Employee,86000,4,Yes,8
+78,33,Male,Pune,MH,IT_Professional,82000,3,Yes,7
+79,50,Female,Kolkata,West Bengal,Teacher,56000,4,No,8
+80,27,Male,Ahmedabad,Gujarat,Architect,71000,2,Yes,9
+81,63,Female,Jaipur,Rajasthan,Retired,36000,2,Yes,10
+82,34,Male,Lucknow,UP,Lawyer,76000,3,No,7
+83,37,Female,Chandigarh,Punjab,Designer,62000,2,Yes,8
+84,19,Male,Bhopal,MP,Student,NA,1,No,5
+85,48,Male,Mumbi,Maharashtra,Doctor,170000,4,Yes,9
+86,41,Female,Delhi,Delhi,Marketing Manager,92000,3,Yes,7
+87,55,Male,Bengaluru,KA,Consultant,125000,2,Yes,8
+88,31,Female,Chennai,TN,Software Engineer,74000,3,No,7
+89,42,Male,Hyderabad,Telangana,Sales Executive,66000,4,Yes,6
+90,47,Female,Pune,Maharashtra,Homemaker,22000,5,No,8
+91,25,Male,Kolkata,West Bengal,Analyst,51000,2,Yes,7
+92,61,Female,Ahmedabad,GJ,Professor,96000,2,Yes,9
+93,36,Male,Jaipur,Rajasthan,Artist,46000,1,No,8
+94,29,Female,Lucknow,Uttar Pradesh,Journalist,54000,2,No,7
+95,45,Male,Chandigarh,CH,Banker,84000,4,Yes,8
+96,21,Male,Bhopal,Madhya Pradesh,Student,5000,1,No,6
+97,50,Male,Mumbai,Maharashtra,Enginner,145000,5,Yes,9
+98,42,Female,Delhi,Delhi,Doctor,115000,3,Yes,10
+99,56,Male,Bengaluru,Karnataka,Businessman,155000,4,No,7
+100,30,Female,Chennai,Tamil Nadu,Student,9000,2,No,6
+101,59,Male,Hyderabad,Telangana,Government Employee,88000,4,Yes,8
+102,34,Male,Pune,Maharashtra,IT Professional,84000,3,Yes,7
+103,51,Female,Kolkata,West Bengal,Teacher,58000,4,No,8
+104,28,Male,Ahmedabad,Gujarat,Architect,73000,2,Yes,9
+105,64,Female,Jaipur,Rajasthan,Retired,38000,2,Yes,10
+106,35,Male,Lucknow,UP,Lawyer,78000,3,No,7
+107,38,Female,Chandigarh,Punjab,Designer,64000,2,Yes,8
+108,20,Male,Bhopal,MP,Student,NULL,1,No,5
+109,51,Male,Mumbai,MH,Doctor,175000,4,Yes,9
+110,43,Female,Delhi,Delhi NCR,Marketing Manager,94000,3,Yes,7
+111,57,Male,Bengaluru,KA,Consultant,130000,2,Yes,8
+112,32,Female,Chennai,TN,Software Engineer,76000,3,No,7
+113,43,Male,Hyderabad,Telangana,Sales Executive,68000,4,Yes,6
+114,48,Female,Pune,Maharashtra,Homemaker,,5,No,8
+115,26,Male,Kolkata,WB,Analyst,53000,2,Yes,7
+116,62,Female,Ahmedabad,GJ,Professor,98000,2,Yes,9
+117,37,Male,Jaipur,RJ,Artist,48000,1,No,8
+118,30,Female,Lucknow,Uttar Pradesh,Journalist,56000,2,No,7
+119,46,Male,Chandigarh,CH,Banker,86000,4,Yes,8
+120,24,Male,Bhopal,Madhya Pradesh,Student,6000,1,No,6
+121,52,Male,Mumbai,Maharashtra,Engineer,150000,5,Yes,9
+122,44,Female,Delhi,DL,Doctor,120000,3,Yes,10
+123,-2,Male,Bengaluru,Karnataka,Businessman,160000,4,No,7
+124,31,Female,Chennai,Tamil Nadu,Student,10000,2,No,6
+125,60,Male,Hyderabad,Telangana,Govt. Employee,90000,4,Yes,8
+126,35,Male,Pune,Maharashtra,IT Professional,86000,3,Yes,7
+127,52,Female,Kolkata,West Bengal,Teacher,60000,4,No,8
+128,29,Male,Ahmedabad,Gujarat,Architect,75000,2,Yes,9
+129,65,Female,Jaipur,Rajasthan,Retired,40000,2,Yes,10
+130,36,Male,Lucknow,UP,Lawyer,80000,3,No,7
+131,39,Female,Chandigarh,Punjab,Designer,66000,2,Yes,8
+132,22,Male,Bhopal,MP,Student,NA,1,No,5
+133,53,Male,Mumbai,Maharashtra,Doctor,180000,4,Yes,9
+134,45,Female,Delhi,Delhi,Marketing Manager,96000,3,Yes,7
+135,58,Male,Bengaluru,KA,Consultant,135000,2,Yes,8
+136,33,Female,Chennai,TN,Software Engineer,78000,3,No,7
+137,44,Male,Hyderabad,TG,Sales Executive,70000,4,Yes,6
+138,49,Female,Pune,MH,Homemaker,24000,5,No,8
+139,27,Male,Kolkata,West Bengal,Analyst,55000,2,Yes,7
+140,63,Female,Ahmedabad,Gujarat,Professor,100000,2,Yes,9
+141,38,Male,Jaipur,Rajasthan,Artist,50000,1,No,8
+142,31,Female,Lucknow,Uttar Pradesh,Journalist,58000,2,No,7
+143,47,Male,Chandigarh,CH,Banker,88000,4,Yes,8
+144,25,Male,Bhopal,Madhya Pradesh,Student,7000,1,No,6
+145,54,Male,Mumbai,Maharashtra,Engineer,155000,5,Yes,9
+146,46,Female,Delhi,Delhi,Doctor,125000,3,Yes,10
+147,59,Male,Bengaluru,Karnataka,Businessman,165000,4,No,7
+148,32,Female,Chennai,Tamil Nadu,Student,11000,2,No,6
+149,61,Male,Hyderabad,Telangana,Government Employee,92000,4,Yes,8
+150,36,Male,Pune,Maharashtra,IT Professional,88000,3,Yes,7
+151,53,Female,Kolkata,WB,Teacher,62000,4,No,8
+152,30,Male,Ahmedabad,GJ,Architect,77000,2,Yes,9
+153,66,Female,Jaipur,RJ,Retired,42000,2,Yes,10
+154,37,Male,Lucknow,UP,Lawyer,82000,3,No,7
+155,40,Female,Chandigarh,Punjab,Designer,68000,2,Yes,8
+156,23,Male,Bhopal,MP,Student,NULL,1,No,5
+157,55,Male,Mumbai,MH,Doctor,185000,4,Yes,9
+158,47,Female,Delhi,Delhi NCR,Marketing Manager,98000,3,Yes,7
+159,60,Male,Bengaluru,KA,Consultant,140000,2,Yes,8
+160,34,Female,Chennai,TN,Software Engineer,80000,3,No,7
+161,45,Male,Hyderabad,Telangana,Sales Executive,72000,4,Yes,6
+162,50,Female,Pune,Maharashtra,Homemaker,None,5,No,8
+163,28,Male,Kolkata,West Bengal,Analyst,57000,2,Yes,7
+164,64,Female,Ahmedabad,Gujarat,Professor,102000,2,Yes,9
+165,39,Male,Jaipur,Rajasthan,Artist,52000,1,No,8
+166,32,Female,Lucknow,Uttar Pradesh,Journalist,60000,2,No,7
+167,48,Male,Chandigarh,CH,Banker,90000,4,Yes,8
+168,26,Male,Bhopal,Madhya Pradesh,Student,8000,1,No,6
+169,56,Male,Mumbai,Maharashtra,Engineer,160000,5,Yes,9
+170,48,Female,Delhi,DL,Doctor,130000,3,Yes,10
+171,61,Male,Bengaluru,Karnataka,Businessman,170000,4,No,7
+172,33,Female,Chennai,Tamil Nadu,Student,12000,2,No,6
+173,62,Male,Hyderabad,TG,Government Employee,94000,4,Yes,8
+174,37,Male,Pune,MH,IT Professional,90000,3,Yes,7
+175,54,Female,Kolkata,West Bengal,Teacher,64000,4,No,8
+176,31,Male,Ahmedabad,GJ,Architect,79000,2,Yes,9
+177,67,Female,Jaipur,RJ,Retired,44000,2,Yes,10
+178,38,Male,Lucknow,UP,Lawyer,84000,3,No,7
+179,41,Female,Chandigarh,Punjab,Designer,70000,2,Yes,8
+180,24,Male,Bhopal,MP,Student,NA,1,No,5
+181,57,Male,Mumbai,Maharashtra,Doctor,190000,4,Yes,9
+182,49,Female,Delhi,Delhi,Marketing Manager,100000,3,Yes,7
+183,62,Male,Bengaluru,KA,Consultant,145000,2,Yes,8
+184,35,Female,Chennai,TN,Software Engineer,82000,3,No,7
+185,46,Male,Hyderabad,Telangana,Sales Executive,74000,4,Yes,6
+186,51,Female,Pune,Maharashtra,Homemaker,26000,5,No,8
+187,29,Male,Kolkata,West Bengal,Analyst,59000,2,Yes,7
+188,65,Female,Ahmedabad,Gujarat,Professor,104000,2,Yes,9
+189,40,Male,Jaipur,Rajasthan,Artist,54000,1,No,8
+190,33,Female,Lucknow,Uttar Pradesh,Journalist,62000,2,No,7
+191,49,Male,Chandigarh,CH,Banker,92000,4,Yes,8
+192,27,Male,Bhopal,Madhya Pradesh,Student,9000,1,No,6
+193,58,Male,Mumbai,MH,Engineer,165000,5,Yes,9
+194,50,Female,Delhi,Delhi NCR,Doctor,135000,3,Yes,10
+195,63,Male,Bengaluru,Karnataka,Businessman,175000,4,No,7
+196,34,Female,Chennai,Tamil Nadu,Student,13000,2,No,6
+197,63,Male,Hyderabad,Telangana,Government Employee,96000,4,Yes,8
+198,38,Male,Pune,MH,IT Professional,92000,3,Yes,7
+199,55,Female,Kolkata,WB,Teacher,66000,4,No,8
+200,32,Male,Ahmedabad,GJ,Architect,81000,2,Yes,9
+201,120,Male,Pune,Maharashtra,Retired,5000000,3,Yes,12
+202,34,Other,Kochi,Kerala,Data Scientist,95000,2.5,Y,8
+203,45,Female,Indore,,Accountant,-25000,4,N,7
+204,Twenty Two,M,Surat,Gujarat,Graphic Designer,45000,3,Yes,9
+205,38,Male,Nagpur,Maharashtra,Manager,85000,invalid,No,4
+206,29,Female,Visakhapatnam,Andhra Pradesh,HR,65000,3,Y,nine
+207,50,Male,Patna,Bihar,Shopkeeper,,5,No,6
+208,25,Female,Agra,Uttar Pradesh,Content Writer,30000$,2,Yes,8
+209,33,Male,Goa,Goa,Hotelier,120000,2,Yes,-5
+210,41,Female,Mysuru,Karnataka,Researcher,78000,4,No,7

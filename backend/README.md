@@ -7,3 +7,9 @@ python -m venv venv
 .\venv\Scripts\activate
 pip install -r requirements.txt
 ```
+
+Use uvicorn to start the server
+
+```bash
+uvicorn main:app --reload
+```

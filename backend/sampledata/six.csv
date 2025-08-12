@@ -1,0 +1,131 @@
+SurveyID,Age,Gender,State,Annual_Income_INR,Education_Level,Internet_Access,Digital_Payment_Adoption,Satisfaction_Score_Govt_Services,Preferred_News_Source
+101,45,Male,Maharashtra,850000,Graduate,Broadband,Weekly,7,Television
+102,28,Female,Karnataka,600000,Postgraduate,Mobile Data,Daily,8,Online
+103,33,Male,Delhi,1200000,Graduate,Broadband,Daily,6,Newspaper
+104,52,Male,Uttar Pradesh,450000,High School,Mobile Data,Monthly,5,Television
+105,21,Female,Tamil Nadu,300000,Undergraduate,Mobile Data,Daily,7,Social Media
+106,65,M,West Bengal,250000,High School,None,Never,4,Radio
+107,38,Female,Gujarat,950000,Postgraduate,Broadband,Weekly,9,Online
+108,29,Male,Rajasthan,550000,Graduate,Mobile Data,Daily,NA,Social Media
+109,41,Female,Kerala,750000,Graduate,Mobile Data,Monthly,8,Newspaper
+110,24,M,Punjab,400000,Undergraduate,Broadband,Weekly,6,Online
+111,58,Male,Andhra Pradesh,650000,High School,Mobile Data,Rarely,5,Television
+112,31,Female,Telangana,1100000,Postgraduate,Broadband,Daily,9,Online
+113,49,Male,Madhya Pradesh,350000,Graduate,Mobile Data,Monthly,4,Newspaper
+114,22,Female,Haryana,480000,Undergraduate,Mobile Data,Daily,7,Social Media
+115,36,Male,Bihar,200000,High School,None,Never,3,Radio
+116,27,Female,Odisha,320000,Graduate,Mobile Data,Weekly,6,Television
+117,44,M,Assam,400000,Postgraduate,Mobile Data,Monthly,5,Newspaper
+118,30,Male,Jharkhand,280000,High School,Mobile Data,Rarely,4,Television
+119,39,Female,Chhattisgarh,310000,Graduate,Mobile Data,Weekly,NA,Online
+120,55,Male,Uttarakhand,520000,Graduate,Broadband,Rarely,6,Newspaper
+121,26,Female,Delhi,700000,Postgraduate,Mobile Data,Daily,8,Social Media
+122,150,Male,Karnataka,580000,Graduate,Mobile Data,Daily,7,Online
+123,32,F,Maharastra,920000,Postgraduate,Broadband,Daily,9,Online
+124,47,Male,Uttar Pradesh,,"High School",Mobile Data,Monthly,5,Television
+125,23,Female,Tamil Nadu,350000,Undergraduate,Mobile Data,Daily,8,Social Media
+126,68,Male,West Bengal,220000,High School,None,Never,3,Radio
+127,34,Female,Gujarat,1000000,Graduate,Broadband,Weekly,8,Online
+128,30,Male,Rajasthan,580000,Graduate,Mobile Data,Daily,7,Social Media
+129,42,F,Kerala,800000,Postgraduate,Mobile Data,Monthly,9,Newspaper
+130,25,Male,Punjab,420000,Undergraduate,Broadband,Weekly,6,Online
+131,,Male,Andhra Pradesh,670000,High School,Mobile Data,Rarely,5,Television
+132,33,Female,Telangana,1150000,Postgraduate,Broadband,Daily,9,Online
+133,50,M,Madhya Pradesh,380000,Graduate,Mobile Data,Monthly,4,Newspaper
+134,'Twenty-Nine',Female,Haryana,500000,Undergraduate,Mobile Data,Daily,7,Social Media
+135,37,Male,Bihar,210000,High School,None,Never,3,Radio
+136,28,Female,Odisha,340000,Graduate,Mobile Data,Weekly,6,Television
+137,46,Male,Assam,420000,Postgraduate,Mobile Data,Monthly,5,Newspaper
+138,31,Male,Jharkhand,300000,High School,Mobile Data,Rarely,4,Television
+139,40,Female,Chhattisgarh,330000,Graduate,Mobile Data,Weekly,5,Online
+140,56,Male,Uttarakhand,540000,Graduate,Broadband,Rarely,6,Newspaper
+141,27,Female,Delhi,750000,Postgraduate,Mobile Data,Daily,8,Social Media
+142,35,Male,Karnataka,620000,Graduate,Mobile Data,Daily,7,Online
+143,33,Female,Maharashtra,950000,Postgraduate,Broadband,Daily,9,Online
+144,48,Male,UP,470000,High School,Mobile Data,Monthly,5,Television
+145,24,Female,Tamil Nadu,370000,Undergraduate,Mobile Data,Daily,8,Social Media
+146,69,Male,West Bengal,230000,High School,None,Never,3,Radio
+147,35,Female,Gujarat,1050000,Graduate,Broadband,Weekly,8,Online
+148,31,Male,Rajasthan,600000,Graduate,Mobile Data,Daily,7,Social Media
+149,43,Female,Kerala,820000,Postgraduate,Mobile Data,Monthly,9,Newspaper
+150,26,Male,Punjab,440000,Undergraduate,Broadband,Weekly,6,Online
+151,60,Male,Andhra Pradesh,690000,High School,Mobile Data,Rarely,5,Television
+152,34,Female,Telangana,1200000,Postgraduate,Broadband,Daily,10,Online
+153,51,Male,Madhya Pradesh,400000,Graduate,Mobile Data,Monthly,4,Newspaper
+154,23,Female,Haryana,520000,Undergraduate,Mobile Data,Daily,7,Social Media
+155,38,Male,Bihar,220000,High School,None,Never,NA,Radio
+156,29,Female,Odisha,360000,Graduate,Mobile Data,Weekly,6,Television
+157,47,Male,Assam,440000,Postgraduate,Mobile Data,Monthly,5,Newspaper
+158,32,Male,Jharkhand,320000,High School,Mobile Data,Rarely,4,Television
+159,41,Female,Chhattisgarh,350000,Graduate,Mobile Data,Weekly,5,Online
+160,57,Male,Uttarakhand,560000,Graduate,Broadband,Rarely,6,Newspaper
+161,28,Female,Delhi,800000,Postgraduate,Mobile Data,Daily,8,Social Media
+162,36,Male,Karnataka,640000,Graduate,Mobile Data,Daily,7,Online
+163,34,Female,Maharashtra,980000,Postgraduate,Broadband,Daily,9,Online
+164,49,Male,Uttar Pradesh,490000,High School,Mobile Data,Monthly,5,Television
+165,25,Female,Tamil Nadu,390000,Undergraduate,Mobile Data,Daily,8,Social Media
+166,70,Male,West Bengal,240000,High School,None,Never,2,Radio
+167,36,Female,Gujarat,1100000,Graduate,Broadband,Weekly,8,Online
+168,32,Male,Rajasthan,620000,Graduate,Mobile Data,Daily,7,Social Media
+169,44,Female,Kerala,840000,Postgraduate,Mobile Data,Monthly,9,Newspaper
+170,27,Male,Punjab,460000,Undergraduate,Broadband,Weekly,6,Online
+171,61,Male,Andhra Pradesh,710000,High School,Mobile Data,Rarely,5,Television
+172,35,Female,Telangana,1250000,Postgraduate,Broadband,Daily,10,Online
+173,52,Male,MP,420000,Graduate,Mobile Data,Monthly,4,Newspaper
+174,24,Female,Haryana,540000,Undergraduate,Mobile Data,Daily,7,Social Media
+175,39,Male,Bihar,230000,High School,None,Never,2,Radio
+176,30,Female,Odisha,380000,Graduate,Mobile Data,Weekly,6,Television
+177,48,Male,Assam,460000,Postgraduate,Mobile Data,Monthly,5,Newspaper
+178,33,Male,Jharkhand,340000,High School,Mobile Data,Rarely,4,Television
+179,42,Female,Chhattisgarh,370000,Graduate,Mobile Data,Weekly,5,Online
+180,58,Male,Uttarakhand,580000,Graduate,Broadband,Rarely,6,Newspaper
+181,29,Female,Delhi,850000,Postgraduate,Mobile Data,Daily,8,Social Media
+182,37,Male,Karnataka,660000,Graduate,Mobile Data,Daily,7,Online
+183,35,Female,Maharashtra,1000000,Postgraduate,Broadband,Daily,9,Online
+184,50,Male,Uttar Pradesh,510000,High School,Mobile Data,Monthly,5,Television
+185,26,Female,TN,410000,Undergraduate,Mobile Data,Daily,8,Social Media
+186,-5,Male,West Bengal,250000,High School,None,Never,2,Radio
+187,37,Female,Gujarat,"1,200,000",Graduate,Broadband,Weekly,8,Online
+188,33,Male,Rajasthan,640000,Graduate,Mobile Data,Daily,7,Social Media
+189,45,Female,Kerala,860000,Postgraduate,Mobile Data,Monthly,9,Newspaper
+190,28,Male,Punjab,480000,Undergraduate,Broadband,Weekly,6,Online
+191,62,Male,Andhra Pradesh,730000,High School,Mobile Data,Rarely,5,Television
+192,36,Female,Telangana,1300000,Postgraduate,Broadband,Daily,10,Online
+193,53,Male,Madhya Pradesh,440000,Graduate,Mobile Data,Monthly,4,Newspaper
+1a4,25,Female,Haryana,560000,Undergraduate,Mobile Data,Daily,Good,Social Media
+195,40,Male,Bihar,240000,High School,None,Never,2,Radio
+196,31,Female,Odisha,400000,Graduate,Mobile Data,Weekly,6,Television
+197,49,Male,Assam,480000,Postgraduate,Mobile Data,Monthly,5,Newspaper
+198,34,Male,Jharkhand,360000,High School,Mobile Data,Rarely,4,Television
+199,43,Female,Chhattisgarh,390000,Graduate,Mobile Data,Weekly,5,Online
+200,59,Male,Uttarakhand,600000,Graduate,Broadband,Rarely,6,Newspaper
+201,30,Female,Delhi,900000,Postgraduate,Mobile Data,Daily,8,Social Media
+202,38,Male,Karnataka,680000,Graduate,Mobile Data,Daily,7,Online
+203,36,Female,Maharashtra,15000000,Postgraduate,Broadband,Daily,9,Online
+204,51,Male,Uttar Pradesh,530000,High School,Mobile Data,Monthly,5,Television
+205,27,Female,Tamil Nadu,'Six Lakh',Undergraduate,Mobile Data,Daily,8,Social Media
+206,72,Male,West Bengal,260000,High School,None,Never,2,Radio
+207,38,Female,Gujarat,1250000,Graduate,Broadband,Weekly,8,Online
+208,34,Male,Rajasthan,660000,Graduate,Mobile Data,Daily,7,Social Media
+209,46,Female,Kerala,880000,Postgraduate,Mobile Data,Monthly,9,Newspaper
+210,29,Male,Punjab,500000,Undergraduate,Broadband,Weekly,6,Online
+211,63,Male,Andhra Pradesh,750000,High School,Mobile Data,Rarely,5,Television
+212,37,Female,Telangana,1350000,Postgraduate,Broadband,Daily,10,Online
+213,54,Male,Madhya Pradesh,460000,Graduate,Mobile Data,Monthly,4,Newspaper
+214,26,Female,Haryana,580000,Undergraduate,Mobile Data,Daily,7,Social Media
+215,41,Male,Bihar,NA,High School,None,Never,2,Radio
+216,32,Female,Odisha,420000,Graduate,Mobile Data,Weekly,6,Television
+217,50,Male,Assam,500000,Postgraduate,Mobile Data,Monthly,5,Newspaper
+218,35,Male,Jharkhand,380000,High School,Mobile Data,Rarely,4,Television
+219,44,Female,Chhattisgarh,410000,Graduate,Mobile Data,Weekly,5,Online
+220,60,Male,Uttarakhand,620000,Graduate,Broadband,Rarely,6,Newspaper
+221,48,Male,Maharashtra,900000,Graduate,Broadband,Weekly,7,Television
+222,29,Female,Karnataka,620000,Postgraduate,Mobile Data,Daily,8,Online
+223,34,Male,Delhi,1300000,Graduate,Broadband,Daily,6,Newspaper
+224,53,Male,UP,470000,High School,Mobile Data,Monthly,5,Television
+225,22,Female,Tamil Nadu,320000,Undergraduate,Mobile Data,Daily,7,Social Media
+226,66,Male,West Bengal,270000,High School,None,Never,4,Radio
+227,39,Female,Gujarat,970000,Postgraduate,Broadband,Weekly,9,Online
+228,30,Male,Rajasthan,570000,Graduate,Mobile Data,Daily,NA,Social Media
+229,42,Female,Kerala,770000,Graduate,Mobile Data,Monthly,8,Newspaper
+230,25,male,Punjab,420000,Undergraduate,Broadband,Weekly,6,Online

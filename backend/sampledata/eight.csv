@@ -1,0 +1,211 @@
+SurveyID,State,District,Age,Gender,EducationLevel,AnnualIncome_INR,HasInternetAccess,PrimaryOccupation,HouseholdSize
+S001,Tamil Nadu,Chennai,45,Male,Graduate,850000,Yes,Software Engineer,4
+S002,Karnataka,Bengaluru,28,Female,Post Graduate,1200000,Y,Data Scientist,2
+S003,Maharashtra,Mumbai,35,Male,Graduate,"₹15,00,000",Yes,Business Owner,5
+S004,Uttar Pradesh,Lucknow,52,Male,Secondary,300000,No,Farmer,7
+S005,West Bengal,Kolkata,65,Female,Primary,120000,N,Homemaker,6
+S006,Tamil Nadu,Coimbatore,22,Male,Graduate,600000,Yes,Student,3
+S007,karnataka,Mysuru,38,Female,Higher Secondary,450000,Yes,Government Employee,4
+S008,Maharashtra,Pune,Thirty,Male,Post Graduate,2500000,TRUE,Manager,2
+S009,Uttar Pradesh,Varanasi,41,Female,NA,200000,No,Artisan,5
+S010,TN,Madurai,58,Male,Secondary,350000,No,Farmer,8
+S011,West Bengal,Howrah,29,Female,Graduate,700000,Yes,Teacher,3
+S012,Maharashtra,Mumbai,47,Male,Graduate,Not Disclosed,Yes,Business Owner,4
+S013,Tamil Nadu,Chennai,26,M,Post Graduate,1800000,Yes,Software Enginer,2
+S014,Karnataka,Bengaluru,31,F,Graduate,950000,Y,Doctor,3
+S015,Uttar Pradesh,Agra,150,Male,Primary,90000,N,Retired,2
+S016,West Bengal,Kolkata,33,Female,Master's,1100000,Yes,Professor,3
+S017,Tamil Nadu,Salem,49,Male,Secondary,400000,No,Farmer,6
+S018,Karnataka,Mangaluru,36,Female,Graduate,650000,Yes,Bank Employee,4
+S019,maharashtra,Nagpur,44,Male,12th Pass,500000,No,Shopkeeper,5
+S020,Uttar Pradesh,Kanpur,55,Female,Illiterate,,No,Labourer,7
+S021,Tamil Nadu,Tiruchirappalli,24,Male,B.E.,750000,Yes,Engineer,3
+S022,Karnataka,Bengaluru,29,Female,MBA,2200000,Yes,Marketing Head,2
+S023,Maharashtra,Pune,39,Male,Graduate,1900000,1,IT Consultant,3
+S024,West Bengal,Darjeeling,68,Male,Secondary,250000,No,Retired,2
+S025,Tamil Nadu,Chennai,9,Female,Primary,-,No,Student,4
+S026,Karnataka,Hubli,42,Male,Secondary,480000,No,Driver,5
+S027,Maharashtra,Mumbai,34,Female,Graduate,1300000,Y,Architect,3
+S028,Uttar Pradesh,Ghaziabad,30,Male,Post Graduate,900000,Yes,Civil Servant,4
+S029,TN,Coimbatore,51,Female,Graduate,620000,No,Homemaker,5
+S030,West Bengal,Kolkata,27,M,Graduate,800000,Yes,Journalist,2
+S031,Tamil Nadu,Madurai,46,Male,10th Pass,320000,0,Farmer,6
+S032,Karnataka,Bengaluru,25,Female,Post Graduate,1500000,TRUE,Researcher,1
+S033,Maharashtra,Pune,53,Male,Ph.D,3000000,Yes,Professor,3
+S034,Uttar Pradesh,Lucknow,60,Male,Graduate,700000,No,Government Employee,5
+S035,West Bengal,Asansol,37,Female,Secondary,280000,N,Tailor,4
+S036,Tamil Nadu,Chennai,40,Male,Graduate,1000000,Yes,Manager,4
+S037,Karnataka,Mysuru,23,Female,Student,15000,Yes,Student,3
+S038,Maharashtra,Mumbai,32,Male,Graduate,1600000,Yes,Actor,2
+S039,Uttar Pradesh,Varanasi,48,Male,Primary,180000,No,Priest,5
+S040,Tamil Nadu,Erode,35,Female,Higher Secondary,400000,No,Weaver,6
+S041,Karnataka,Bengaluru,28,F,M.Tech,1400000,Y,Software Engineer,2
+S042,Maharashtra,Thane,43,Male,Graduate,950000,Yes,Sales Executive,4
+S043,West Bengal,Kolkata,59,Male,Secondary,300000,No,Retired,3
+S044,Tamil Nadu,Vellore,21,Male,B.Sc,350000,Yes,Student,4
+S045,Uttar Pradesh,Allahabad,54,Female,,220000,No,Homemaker,5
+S046,Karnataka,Bengaluru,33,Male,Post Graduate,99000000,Yes,Startup Founder,3
+S047,Maharashtra,Pune,26,Female,Graduate,800000,Yes,HR Executive,2
+S048,Tamil Nadu,Chennai,37,Male,Graduate,900000,Yes,Analyst,3
+S049,West Bengal,Siliguri,45,Male,Secondary,350000,No,Trader,5
+S050,Uttar Pradesh,Meerut,50,Male,10th Pass,280000,N,Mechanic,6
+S051,Tamil Nadu,Coimbatore,29,Female,M.Sc,550000,Yes,Scientist,3
+S052,Karnataka,Belagavi,56,Male,Primary,200000,No,Farmer,7
+S053,Maharashtra,Mumbai,36,Male,Graduate,"1,200,000",Yes,Finance Manager,4
+S054,Uttar Pradesh,Noida,27,Female,B.Tech,1100000,Yes,Software Developer,2
+S055,West Bengal,Durgapur,49,Male,Higher Secondary,420000,No,Factory Worker,5
+S056,Tamil Nadu,Madurai,62,Female,Illiterate,80000,No,NULL,4
+S057,karnataka,Bengaluru,30,M,MBA,2000000,Yes,Product Manager,3
+S058,Maharashtra,Pune,28,Female,Graduate,900000,Y,Designer,2
+S059,Uttar Pradesh,Ghaziabad,35,Male,Post Graduate,1000000,1,Engineer,4
+S060,TN,Chennai,41,Female,Graduate,750000,Yes,Doctor,4
+S061,West Bengal,Kolkata,24,Male,Graduate,600000,Yes,Intern,2
+S062,Tamil Nadu,Tirunelveli,53,Male,Secondary,380000,No,Farmer,6
+S063,Karnataka,Mysuru,39,Female,Ph.D,1800000,Yes,Professor,3
+S064,Maharashtra,Mumbai,22,Female,Student,,Yes,Student,1
+S065,Uttar Pradesh,Kanpur,47,Male,12th Pass,520000,No,Shopkeeper,5
+S066,Tamil Nadu,Salem,33,Male,Diploma,450000,No,Technician,4
+S067,Karnataka,Bengaluru,26,F,B.Com,700000,Yes,Accountant,3
+S068,Maharashtra,Pune,31,Male,Graduate,1500000,Yes,Data Analyst,2
+S069,Uttar Pradesh,Agra,58,Male,Primary,150000,N,Tour Guide,4
+S070,West Bengal,Kolkata,29,Female,M.A.,500000,Yes,Content Writer,2
+S071,Tamil Nadu,Chennai,44,Male,Graduate,1100000,Yes,Manager,4
+S072,Karnataka,Mangaluru,38,Female,Graduate,720000,Yes,Teacher,3
+S073,maharashtra,Nagpur,42,Male,Secondary,480000,No,Clerk,5
+S074,Uttar Pradesh,Lucknow,51,Female,Graduate,600000,No,Homemaker,4
+S075,Tamil Nadu,Coimbatore,25,Male,B.E.,800000,Yes,Engineer,3
+S076,Karnataka,Bengaluru,27,Female,MBA,2500000,Yes,Consultant,2
+S077,Maharashtra,Mumbai,36,Male,Graduate,1800000,Yes,Banker,3
+S078,West Bengal,Howrah,61,Male,Secondary,320000,No,Retired,3
+S079,Tamil Nadu,Madurai,12,Male,Student,0,No,Student,5
+S080,Uttar Pradesh,Varanasi,49,Male,Primary,210000,N,NULL,6
+S081,Karnataka,Hubli,45,Male,Secondary,500000,No,Driver,5
+S082,Maharashtra,Pune,33,Female,Post Graduate,1700000,Y,Researcher,2
+S083,Tamil Nadu,Chennai,29,Male,Graduate,950000,Yes,Software Engineer,3
+S084,West Bengal,Kolkata,34,Female,Graduate,850000,Yes,HR,3
+S085,Uttar Pradesh,Ghaziabad,31,Male,B.Tech,1200000,1,IT Professional,4
+S086,TN,Erode,38,Female,Higher Secondary,420000,No,Weaver,5
+S087,Karnataka,Bengaluru,28,M,M.Tech,1600000,Yes,SDE-II,2
+S088,Maharashtra,Thane,46,Male,Graduate,1000000,Yes,Sales Head,4
+S089,Tamil Nadu,Vellore,23,Female,B.A.,300000,Yes,Student,4
+S090,Uttar Pradesh,Allahabad,57,Male,,250000,No,Lawyer,4
+S091,Karnataka,Bengaluru,32,Female,Ph.D,2800000,Yes,Scientist,3
+S092,Maharashtra,Pune,29,Male,Graduate,980000,Yes,Analyst,2
+S093,Tamil Nadu,Chennai,39,Male,Graduate,1300000,Yes,Manager,3
+S094,West Bengal,Siliguri,47,Male,Secondary,380000,No,Trader,5
+S095,Uttar Pradesh,Meerut,52,Female,10th Pass,300000,N,Homemaker,6
+S096,Tamil Nadu,Coimbatore,30,Female,M.Sc,600000,Yes,Biologist,3
+S097,Karnataka,Belagavi,58,Male,Primary,220000,No,Farmer,7
+S098,Maharashtra,Mumbai,37,Male,Graduate,1400000,Yes,Finance,4
+S099,Uttar Pradesh,Noida,28,Female,B.Tech,1250000,Yes,Developer,2
+S100,West Bengal,Durgapur,51,Male,Higher Secondary,450000,No,Worker,5
+S101,Tamil Nadu,Chennai,45,Male,Graduate,850000,Yes,Software Engineer,4
+S102,Karnataka,Bengaluru,28,Female,Post Graduate,1200000,Y,Data Scientist,2
+S103,Maharashtra,Mumbai,35,Male,Graduate,"₹15,00,000",Yes,Business Owner,5
+S104,Uttar Pradesh,Lucknow,52,Male,Secondary,300000,No,Farmer,7
+S105,West Bengal,Kolkata,65,Female,Primary,120000,N,Homemaker,6
+S106,Tamil Nadu,Coimbatore,22,Male,Graduate,600000,Yes,Student,3
+S107,karnataka,Mysuru,38,Female,Higher Secondary,450000,Yes,Government Employee,4
+S108,Maharashtra,Pune,"Twenty Nine",Male,Post Graduate,2500000,TRUE,Manager,2
+S109,Uttar Pradesh,Varanasi,41,Female,NA,200000,No,Artisan,5
+S110,TN,Madurai,58,Male,Secondary,350000,No,Farmer,8
+S111,West Bengal,Howrah,29,Female,Graduate,700000,Yes,Teacher,3
+S112,Maharashtra,Mumbai,47,Male,Graduate,,Yes,Business Owner,4
+S113,Tamil Nadu,Chennai,26,M,Post Graduate,1800000,Yes,Software Enginer,2
+S114,Karnataka,Bengaluru,31,F,Graduate,950000,Y,Doctor,3
+S115,Uttar Pradesh,Agra,140,Male,Primary,90000,N,Retired,2
+S116,West Bengal,Kolkata,33,Female,Master's,1100000,Yes,Professor,3
+S117,Tamil Nadu,Salem,49,Male,Secondary,400000,No,Farmer,6
+S118,Karnataka,Mangaluru,36,Female,Graduate,650000,Yes,Bank Employee,4
+S119,maharashtra,Nagpur,44,Male,12th Pass,500000,No,Shopkeeper,5
+S120,Uttar Pradesh,Kanpur,55,Female,Illiterate,NA,No,Labourer,7
+S121,Tamil Nadu,Tiruchirappalli,24,Male,B.E.,750000,Yes,Engineer,3
+S122,Karnataka,Bengaluru,29,Female,MBA,2200000,Yes,Marketing Head,2
+S123,Maharashtra,Pune,39,Male,Graduate,1900000,1,IT Consultant,3
+S124,West Bengal,Darjeeling,68,Male,Secondary,250000,No,Retired,2
+S125,Tamil Nadu,Chennai,10,Female,Primary,NULL,No,Student,4
+S126,Karnataka,Hubli,42,Male,Secondary,480000,No,Driver,5
+S127,Maharashtra,Mumbai,34,Female,Graduate,1300000,Y,Architect,3
+S128,Uttar Pradesh,Ghaziabad,30,Male,Post Graduate,900000,Yes,Civil Servant,4
+S129,TN,Coimbatore,51,Female,Graduate,620000,No,Homemaker,5
+S130,West Bengal,Kolkata,27,M,Graduate,800000,Yes,Journalist,2
+S131,Tamil Nadu,Madurai,46,Male,10th Pass,320000,0,Farmer,6
+S132,Karnataka,Bengaluru,25,Female,Post Graduate,1500000,TRUE,Researcher,1
+S133,Maharashtra,Pune,53,Male,Ph.D,-25000,Yes,Professor,3
+S134,Uttar Pradesh,Lucknow,60,Male,Graduate,700000,No,Government Employee,5
+S135,West Bengal,Asansol,37,Female,Secondary,280000,N,Tailor,4
+S136,Tamil Nadu,Chennai,40,Male,Graduate,1000000,Yes,Manager,4
+S137,Karnataka,Mysuru,23,Female,Student,15000,Yes,Student,3
+S138,Maharashtra,Mumbai,32,Male,Graduate,1600000,Yes,Actor,2
+S139,Uttar Pradesh,Varanasi,48,Male,Primary,180000,No,Priest,5
+S140,Tamil Nadu,Erode,35,Female,Higher Secondary,400000,No,Weaver,18
+S141,Karnataka,Bengaluru,28,F,M.Tech,1400000,Y,Software Engineer,2
+S142,Maharashtra,Thane,43,Male,Graduate,950000,Yes,Sales Executive,4
+S143,West Bengal,Kolkata,59,Male,Secondary,300000,No,Retired,3
+S144,Tamil Nadu,Vellore,21,Male,B.Sc,350000,Yes,Student,"Four"
+S145,Uttar Pradesh,Allahabad,54,Female,Graduate,220000,No,Homemaker,5
+S146,Karnataka,Bengaluru,33,Male,Post Graduate,35000000,Yes,Startup Founder,3
+S147,Maharashtra,Pune,26,Female,Graduate,800000,Yes,HR Executive,2
+S148,Tamil Nadu,Chennai,37,Male,Graduate,900000,Yes,Analyst,3
+S149,West Bengal,Siliguri,45,Male,Secondary,350000,No,Trader,5
+S150,Uttar Pradesh,Meerut,50,Male,10th Pass,280000,N,Mechanic,6
+S151,Tamil Nadu,Coimbatore,29,Female,M.Sc,550000,Yes,Scientist,3
+S152,Karnataka,Belagavi,56,Male,Primary,200000,No,Farmer,7
+S153,Maharashtra,Mumbai,36,Male,Graduate,"1,200,000",Yes,Finance Manager,4
+S154,Uttar Pradesh,Noida,27,Female,B.Tech,1100000,Yes,Software Developer,2
+S155,West Bengal,Durgapur,49,Male,Higher Secondary,420000,No,Factory Worker,5
+S156,Tamil Nadu,Madurai,62,Female,Illiterate,80000,No,Homemaker,4
+S157,karnataka,Bengaluru,30,M,MBA,2000000,Yes,Product Manager,3
+S158,Maharashtra,Pune,28,Female,Graduate,900000,Y,Designer,2
+S159,Uttar Pradesh,Ghaziabad,35,Male,Post Graduate,1000000,1,Engineer,4
+S160,TN,Chennai,41,Female,Graduate,750000,Yes,Doctor,4
+S161,West Bengal,Kolkata,24,Male,Graduate,600000,Yes,Intern,2
+S162,Tamil Nadu,Tirunelveli,53,Male,Secondary,380000,No,Farmer,6
+S163,Karnataka,Mysuru,39,Female,Ph.D,1800000,Yes,Professor,3
+S164,Maharashtra,Mumbai,22,Female,Student,NULL,Yes,Student,1
+S165,Uttar Pradesh,Kanpur,47,Male,12th Pass,520000,No,Shopkeeper,5
+S166,Tamil Nadu,Salem,33,Male,Diploma,450000,No,Technician,4
+S167,Karnataka,Bengaluru,26,F,B.Com,700000,Yes,Accountant,3
+S168,Maharashtra,Pune,31,Male,Graduate,1500000,Yes,Data Analyst,2
+S169,Uttar Pradesh,Agra,58,Male,Primary,150000,N,Tour Guide,4
+S170,West Bengal,Kolkata,29,Female,M.A.,500000,Yes,Content Writer,2
+S171,Tamil Nadu,Chennai,44,Male,Graduate,1100000,Yes,Manager,4
+S172,Karnataka,Mangaluru,38,Female,Graduate,720000,Yes,Teacher,3
+S173,maharashtra,Nagpur,42,Male,Secondary,480000,No,Clerk,5
+S174,Uttar Pradesh,Lucknow,51,Female,Graduate,600000,No,Homemaker,4
+S175,Tamil Nadu,Coimbatore,25,Male,B.E.,800000,Yes,Engineer,3
+S176,Karnataka,Bengaluru,27,Female,MBA,2500000,Yes,Consultant,2
+S177,Maharashtra,Mumbai,36,Male,Graduate,1800000,Yes,Banker,3
+S178,West Bengal,Howrah,61,Male,Secondary,320000,No,Retired,3
+S179,Tamil Nadu,Madurai,12,Male,Student,0,No,Student,5
+S180,Uttar Pradesh,Varanasi,49,Male,Primary,210000,N,NULL,6
+S181,Karnataka,Hubli,45,Male,Secondary,500000,No,Driver,5
+S182,Maharashtra,Pune,33,Female,Post Graduate,1700000,Y,Researcher,2
+S183,Tamil Nadu,Chennai,29,Male,Graduate,950000,Yes,Software Engineer,3
+S184,West Bengal,Kolkata,34,Female,Graduate,850000,Yes,HR,3
+S185,Uttar Pradesh,Ghaziabad,31,Male,B.Tech,1200000,1,IT Professional,4
+S186,TN,Erode,38,Female,Higher Secondary,420000,No,Weaver,5
+S187,Karnataka,Bengaluru,28,M,M.Tech,1600000,Yes,SDE-II,2
+S188,Maharashtra,Thane,46,Male,Graduate,1000000,Yes,Sales Head,4
+S189,Tamil Nadu,Vellore,23,Female,B.A.,300000,Yes,Student,4
+S190,Uttar Pradesh,Allahabad,57,Male,Graduate,250000,No,Lawyer,4
+S191,Karnataka,Bengaluru,32,Female,Ph.D,2800000,Yes,Scientist,3
+S192,Maharashtra,Pune,29,Male,Graduate,980000,Yes,Analyst,2
+S193,Tamil Nadu,Chennai,39,Male,Graduate,1300000,Yes,Manager,3
+S194,West Bengal,Siliguri,47,Male,Secondary,380000,No,Trader,5
+S195,Uttar Pradesh,Meerut,52,Female,10th Pass,300000,N,Homemaker,6
+S196,Tamil Nadu,Coimbatore,30,Female,M.Sc,600000,Yes,Biologist,3
+S197,Karnataka,Belagavi,58,Male,Primary,220000,No,Farmer,7
+S198,Maharashtra,Mumbai,37,Male,Graduate,1400000,Yes,Finance,4
+S199,Uttar Pradesh,Noida,28,Female,B.Tech,1250000,Yes,Developer,2
+S200,West Bengal,Durgapur,51,Male,Higher Secondary,450000,No,Worker,5
+S201,Tamil Nadu,Chennai,33,Male,Graduate,920000,Yes,Architect,3
+S202,Karnataka,Bengaluru,29,fem,MBA,2300000,Yes,Consultant,2
+S203,Maharashtra,Pune,0,Male,Graduate,1600000,Yes,Data Scientist,0
+S204,Uttar Pradesh,Lucknow,55,Female,Post Graduate,,No,Professor,4
+S205,TN,Trichy,48,Male,Secondary,500000,Yes,Business,6
+S206,karnataka,Mysuru,26,Female,Graduate,750000,Y,Engineer,2
+S207,Maharashtra,Mumbai,42,Male,Ph.D,3200000,1,Researcher,3
+S208,West Bengal,Kolkata,31,Male,Graduate,900000,TRUE,Artist,2
+S209,Tamil Nadu,Madurai,63,Female,Illiterate,75000,No,Homemaker,4
+S210,Uttar Pradesh,Agra,40,Male,12th Pass,400000,No,Shopkeeper,5

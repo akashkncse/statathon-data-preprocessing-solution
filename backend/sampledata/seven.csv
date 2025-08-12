@@ -1,0 +1,213 @@
+SurveyID,State,Age,Gender,Annual_Income_INR,Education_Level,Internet_Access_Hours_per_Day,Preferred_E-commerce_Platform,Satisfaction_Score_1_to_5,Last_Purchase_Date
+SID001,Maharashtra,34,Male,850000,Graduate,4,Amazon,4,2025-07-15
+SID002,Delhi,28,Female,600000,Post Graduate,6,Flipkart,5,2025-07-22
+SID003,Karnataka,45,Male,1200000,PhD,3,Myntra,3,2025-06-30
+SID004,Tamil Nadu,22,Female,450000,Graduate,8,Amazon,4,2025-08-01
+SID005,Uttar Pradesh,Thirty,Male,300000,High School,2,Flipkart,2,20/07/2025
+SID006,West Bengal,52,Male,950000,Graduate,1,Ajio,4,2025-07-18
+SID007,Gujarat,29,Female,700000,Post Graduate,5,Myntra,5,2025-07-25
+SID008,Rajasthan,38,Male,550000,Diploma,3,Amazon,3,2025-07-11
+SID009,Kerala,25,Female,,Graduate,7,Flipkart,4,2025-08-05
+SID010,Telangana,41,M,1500000,PhD,2,Amazon,5,2025-06-20
+SID011,Andhra Pradesh,150,Female,650000,Graduate,5,Myntra,1,2025-07-28
+SID012,Madhya Pradesh,33,Male,400000,High School,4,Flipkart,2,2025-07-02
+SID013,Haryana,27,f,750000,Post Graduate,6,Amazon,Good,2025-07-30
+SID014,Punjab,48,Male,1100000,Graduate,2,Ajio,4,2025-06-15
+SID015,Bihar,31,Female,250000,High School,3,Flipkart,3,2025-07-21
+SID016,Odisha,36,Male,500000,Diploma,2,Amazon,4,2025-07-09
+SID017,Assam,24,Female,350000,Graduate,8,Myntra,NA,2025-08-03
+SID018,Chhattisgarh,42,Male,800000,Post Graduate,3,Flipkart,5,2025-06-25
+SID019,Jharkhand,29,Female,NULL,High School,5,Amazon,3,2025-07-14
+SID020,delhi,26,Male,900000,Grad,7,Flipkart,4,2025-08-08
+SID021,Maharashtra,55,F,25000000,PhD,-1,Amazon,5,12/07/2025
+SID022,Karnataka,39,Male,1300000,Post Graduate,4,Myntra,3,2025-07-01
+SID023,Tamil Nadu,23,Female,500000,Graduate,9,Amazon,4,2025-07-26
+SID024,Uttar Pradesh,35,Male,320000,Diploma,2,Flipkart,2,
+SID025,West Bengal,49,Male,1000000,Graduate,25,Ajio,4,2025-07-19
+SID025,West Bengal,49,Male,1000000,Graduate,1,Ajio,4,2025-07-19
+SID026,Gujarat,30,Female,720000,Post Graduate,5,Myntra,5,2025-07-29
+SID027,Rajasthan,8,Male,580000,High School,3,Amazon,3,2025-07-13
+SID028,Kerala,28,Female,680000,Graduate,7,Flipkart,4,2025-08-06
+SID029,Telangana,44,Male,1600000,PhD,2,Amazon,5,2025-06-22
+SID030,Andhra Pradesh,32,Female,670000,Post-Graduate,6,Myntra,4,2025-07-27
+SID031,Madhya Pradesh,37,Male,420000,High School,4,Flipkart,2,2025-07-04
+SID032,Haryana,29,Female,780000,Post Graduate,6,Amazon,5,Last week
+SID033,Punjab,50,Male,1200000,Graduate,2,Ajio,4,2025-06-18
+SID034,Bihar,34,Female,270000,High School,3,Flipkart,3,2025-07-23
+SID035,Odisha,39,Male,530000,Diploma,2,Amazon.in,4,2025-07-10
+SID036,Karnatak,26,Female,380000,Graduate,8,Myntra,4,2025-08-04
+SID037,Chhattisgarh,45,Male,830000,Post Graduate,3,Flipkart,5,2025-06-27
+SID038,Jharkhand,31,Female,480000,High School,5,Amazon,3,2025-07-16
+SID039,Delhi,28,male,950000,Graduate,7,Flipkart,4,2025-08-10
+SID040,Maharashtra,58,Male,2800000,PhD,3,Amazon,-,2025-07-07
+SID041,Karnataka,42,Female,1400000,Post Graduate,4,Myntra,3,2025-07-03
+SID042,Tamil Nadu,24,Male,520000,Graduate,9,Amazon,4,2025-07-28
+SID043,Uttar Pradesh,37,Female,340000,Diploma,2,flipkart,2.5,2025-07-20
+SID044,West Bengal,53,Male,1050000,Graduate,1,Ajio,4,2025-07-20
+SID045,Gujarat,32,Female,750000,Post Graduate,5,Myntra,5,2025-07-31
+SID046,Rajasthan,40,Male,600000,High School,3,Amazon,3,2025-07-15
+SID047,Kerala,30,Female,700000,Graduate,7,Flipkart,4,2025-08-07
+SID048,Telangana,46,Male,1700000,PhD,2,Amazon,5,2025-06-24
+SID049,Andhra Pradesh,34,Female,690000,Post Graduate,6,Myntra,4,2025-07-29
+SID050,Madhya Pradesh,39,Male,440000,High School,4,Flipkart,2,2025-07-06
+SID051,Maharashtra,29,Male,920000,Graduate,5,Amazon,4,15/07/2025
+SID052,Delhi,31,Female,640000,Post Graduate,6,Flipkart,5,2025-07-23
+SID053,Karnataka,47,Male,1250000,PhD,3,Myntra,3,2025-07-02
+SID054,Tamil Nadu,25,Female,470000,Graduate,8,Amazon,4,2025-08-02
+SID055,Uttar Pradesh,33,Male,310000,High School,2,Flipkart,2,2025-07-21
+SID056,West Bengal,54,male,980000,Graduate,1,Ajio,4,2025-07-19
+SID057,Gujarat,27,Female,710000,Post Graduate,5,Myntra,5,2025-07-26
+SID058,Rajasthan,42,Male,570000,Diploma,3,Amazon,3,2025-07-12
+SID059,Kerala,29,NA,NA,Graduate,7,Flipkart,4,2025-08-06
+SID060,Telangana,43,Male,1550000,PhD,2,Amazon,5,2025-06-21
+SID061,Andhra Pradesh,31,Female,660000,Graduate,5,Myntra,4,2025-07-29
+SID062,Madhya Pradesh,35,Male,410000,High School,4,Flipkart,2,2025-07-03
+SID063,Haryana,30,Female,760000,Post Graduate,6,Amazon,5,2025-07-31
+SID064,Punjab,51,Male,1150000,Graduate,2,Ajio,4,2025-06-16
+SID065,Bihar,33,Female,260000,High School,3,Flipkart,3,2025-07-22
+SID066,Odisha,38,Male,520000,Diploma,2,Amazon,4,2025-07-10
+SID067,Assam,26,Female,370000,Graduate,8,Myntra,4,2025-08-04
+SID068,Chhattisgarh,44,Male,820000,Post Graduate,3,Flipkart,5,2025-06-26
+SID069,Jharkhand,30,Female,470000,High School,5,Amazon,3,2025-07-15
+SID070,Delhi NCR,27,Male,920000,Graduate,7,Flipkart,4,2025-08-09
+SID071,Maharashtra,60,Male,3000000,PhD,3,Amazon,5,2025-07-08
+SID072,Karnataka,41,Female,1350000,Post Graduate,4,Myntra,3,2025-07-04
+SID073,Tamil Nadu,26,Male,510000,Graduate,9,Amazon,4,2025-07-27
+SID074,Uttar Pradesh,38,Female,330000,Diploma,2,Flipkart,-,2025-07-22
+SID075,West Bengal,56,Male,1100000,Graduate,1,Ajio,4,2025-07-21
+SID076,Gujarat,34,Female,740000,Post Graduate,5,Myntra,5,2025-07-30
+SID077,Rajasthan,41,Male,590000,High School,3,Amazon,3,2025-07-14
+SID078,Kerala,31,Female,710000,Graduate,7,Flipkart,4,2025-08-08
+SID079,Telangana,48,Male,1800000,PhD,2,Amazon,5,2025-06-25
+SID080,Andhra Pradesh,36,Female,700000,Post Graduate,6,Myntra,4,2025-07-30
+SID081,Madhya Pradesh,40,Male,430000,High School,4,Flipkart,2,2025-07-05
+SID082,Haryana,28,Female,770000,Post Graduate,6,Amazon,5,2025-08-01
+SID083,Punjab,53,Male,1250000,Graduate,2,Ajio,4,2025-06-19
+SID084,Bihar,35,Female,280000,High School,3,Flipkart,3,2025-07-24
+SID085,Odisha,40,Male,540000,Diploma,2,Amazon,4,2025-07-12
+SID086,Assam,28,Female,390000,Graduate,8,Myntra,4,2025-08-05
+SID087,Chhattisgarh,47,Male,850000,Post Graduate,3,Flipkart,5,2025-06-28
+SID088,Jharkhand,33,Female,490000,High School,5,Amazon,3,2025-07-17
+SID089,Delhi,30,Male,980000,Graduate,7,Flipkart,4,2025-08-11
+SID090,Maharashtra,62,Male,3200000,PhD,3,Amazon,5,2025-07-09
+SID091,Karnataka,43,Female,1450000,Post Graduate,4,Myntra,3,2025-07-05
+SID092,Tamil Nadu,28,Male,530000,Graduate,9,Amazon,4,2025-07-29
+SID093,Uttar Pradesh,40,Female,Five Lakhs,Diploma,2,Flipkart,2,2025-07-23
+SID094,West Bengal,58,Male,1150000,Graduate,1,Ajio,4,2025-07-22
+SID095,Gujarat,36,Female,760000,Post Graduate,5,Myntra,5,2025-08-01
+SID096,Rajasthan,43,Male,610000,High School,3,Amazon,3,2025-07-16
+SID097,Kerala,33,Female,720000,Graduate,7,Flipkart,4,2025-08-09
+SID098,Telangana,50,Male,1900000,PhD,2,Amazon,5,2025-06-26
+SID099,Andhra Pradesh,38,Female,710000,Post Graduate,6,Myntra,4,2025-07-31
+SID100,Madhya Pradesh,42,Male,450000,High School,4,Flipkart,2,2025-07-07
+SID101,Maharashtra,35,Male,860000,Graduate,4,Amazon,4,2025-07-16
+SID102,Delhi,29,Female,610000,Post Graduate,6,Flipkart,5,2025-07-24
+SID103,Karnataka,46,Male,1210000,PhD,3,Myntra,3,2025-07-01
+SID104,Tamil Nadu,23,Female,460000,Graduate,8,Amazon,4,2025-08-02
+SID105,Uttar Pradesh,32,Male,310000,High School,2,Flipkart,NULL,21/07/2025
+SID106,West Bengal,53,Male,960000,Graduate,1,Ajio,4,2025-07-19
+SID107,Gujarat,30,Female,710000,Post Graduate,5,Myntra,5,2025-07-26
+SID108,Rajasthan,39,Male,560000,Diploma,3,Amazon,3,2025-07-12
+SID109,Kerala,26,Female,660000,Graduate,7,Flipkart,4,2025-08-06
+SID110,Telangana,42,M,1510000,PhD,2,Amazon,5,2025-06-21
+SID110,Telangana,42,Male,1510000,PhD,2,Amazon,5,2025-06-21
+SID111,Andhra Pradesh,33,Female,660000,Graduate,5,Myntra,4,2025-07-28
+SID112,Madhya Pradesh,34,Male,410000,High School,4,Flipkart,2,2025-07-03
+SID113,Haryana,28,F,760000,Post Graduate,6,Amazon,5,30/07/2025
+SID114,Punjab,49,Male,1110000,Graduate,2,Ajio,4,2025-06-16
+SID115,Bihar,32,Female,260000,High School,3,Flipkart,3,2025-07-22
+SID116,Odisha,37,Male,510000,Diploma,2,Amazon,4,2025-07-10
+SID117,Assam,25,Female,360000,Graduate,8,Myntra,4,2025-08-04
+SID118,Chhattisgarh,43,Male,810000,Post Graduate,3,Flipkart,5,2025-06-26
+SID119,Jharkhand,30,Female,460000,High School,5,Amazon,3,2025-07-15
+SID120,Delhi,27,Male,910000,Grad,7,Flipkart,4,2025-08-09
+SID121,Maharashtra,56,Male,2600000,PhD,3,Amazon,5,2025-07-08
+SID122,Karnatak,40,Female,1310000,Post Graduate,4,Myntra,3,2025-07-03
+SID123,Tamil Nadu,24,Male,510000,Graduate,9,Amazon,4,2025-07-27
+SID124,Uttar Pradesh,36,Female,330000,Diploma,2,Flipkart,2,2025-07-20
+SID125,West Bengal,50,Male,1010000,Graduate,1,Ajio,4,2025-07-20
+SID126,Gujarat,31,Female,730000,Post Graduate,5,Myntra,5,2025-07-28
+SID127,Rajasthan,40,Male,580000,High School,3,Amazon,3,2025-07-13
+SID128,Kerala,29,Female,690000,Graduate,7,Flipkart,4,2025-08-07
+SID129,Telangana,45,Male,1610000,PhD,2,Amazon,5,2025-06-23
+SID130,Andhra Pradesh,35,Female,680000,Post-Graduate,6,Myntra,4,2025-07-29
+SID131,Madhya Pradesh,38,Male,430000,High School,4,Flipkart,2,2025-07-05
+SID132,Haryana,30,Female,790000,Post Graduate,6,Amazon,5,Not Available
+SID133,Punjab,52,Male,1210000,Graduate,2,Ajio,4,2025-06-18
+SID134,Bihar,34,Female,270000,High School,3,Flipkart,3,2025-07-23
+SID135,Odisha,39,Male,530000,Diploma,2,Amazon.in,4,2025-07-11
+SID136,Assam,27,Female,380000,Graduate,8,Myntra,4,2025-08-05
+SID137,Chhattisgarh,46,Male,840000,Post Graduate,3,Flipkart,5,2025-06-27
+SID138,Jharkhand,32,Female,480000,High School,5,Amazon,3,2025-07-16
+SID139,Delhi,29,male,960000,Graduate,7,Flipkart,4,2025-08-10
+SID140,Maharashtra,59,Male,2900000,PhD,3,Amazon,5,2025-07-09
+SID141,Karnataka,42,Female,1410000,Post Graduate,4,Myntra,3,2025-07-04
+SID142,Tamil Nadu,25,Male,520000,Graduate,9,Amazon,4,2025-07-28
+SID143,Uttar Pradesh,38,Female,350000,Diploma,2,flipkart,2.8,2025-07-21
+SID144,West Bengal,54,Male,1060000,Graduate,1,Ajio,4,2025-07-21
+SID145,Gujarat,33,Female,750000,Post Graduate,5,Myntra,5,2025-07-31
+SID146,Rajasthan,42,Male,600000,High School,3,Amazon,3,2025-07-14
+SID147,Kerala,32,Female,710000,Graduate,7,Flipkart,4,2025-08-08
+SID148,Telangana,47,Male,1710000,PhD,2,Amazon,5,2025-06-25
+SID149,Andhra Pradesh,37,Female,700000,Post Graduate,6,Myntra,4,2025-07-30
+SID150,Madhya Pradesh,41,Male,440000,High School,4,Flipkart,2,2025-07-06
+SID151,Maharashtra,30,Male,930000,Graduate,5,Amazon,4,16/07/2025
+SID152,Delhi,32,Female,650000,Post Graduate,6,Flipkart,5,2025-07-24
+SID153,Karnataka,48,Male,1260000,PhD,3,Myntra,3,2025-07-03
+SID154,Tamil Nadu,26,Female,480000,Graduate,8,Amazon,4,2025-08-03
+SID155,Uttar Pradesh,34,Male,320000,High School,2,Flipkart,2,2025-07-22
+SID156,West Bengal,55,male,990000,Graduate,1,Ajio,4,2025-07-20
+SID157,Gujarat,28,Female,720000,Post Graduate,5,Myntra,5,2025-07-27
+SID158,Rajasthan,43,Male,580000,Diploma,3,Amazon,3,2025-07-13
+SID159,Kerala,30,NA,NA,Graduate,7,Flipkart,4,2025-08-07
+SID160,Telangana,44,Male,1560000,PhD,2,Amazon,5,2025-06-22
+SID161,Andhra Pradesh,32,Female,670000,Graduate,5,Myntra,4,2025-07-30
+SID162,Madhya Pradesh,36,Male,420000,High School,4,Flipkart,2,2025-07-04
+SID163,Haryana,31,Female,770000,Post Graduate,6,Amazon,5,2025-08-01
+SID164,Punjab,53,Male,1160000,Graduate,2,Ajio,4,2025-06-17
+SID165,Bihar,35,Female,270000,High School,3,Flipkart,3,2025-07-23
+SID166,Odisha,40,Male,530000,Diploma,2,Amazon,4,2025-07-11
+SID167,Assam,28,Female,380000,Graduate,8,Myntra,4,2025-08-05
+SID168,Chhattisgarh,45,Male,830000,Post Graduate,3,Flipkart,5,2025-06-27
+SID169,Jharkhand,31,Female,470000,High School,5,Amazon,3,2025-07-16
+SID170,Delhi NCR,28,Male,930000,Graduate,7,Flipkart,4,2025-08-10
+SID171,Maharashtra,61,Male,3100000,PhD,3,Amazon,5,2025-07-09
+SID172,Karnataka,42,Female,1360000,Post Graduate,4,Myntra,3,2025-07-05
+SID173,Tamil Nadu,27,Male,520000,Graduate,9,Amazon,4,2025-07-28
+SID174,Uttar Pradesh,39,Female,340000,Diploma,2,Flipkart,2,2025-07-23
+SID175,West Bengal,57,Male,1110000,Graduate,1,Ajio,4,2025-07-22
+SID176,Gujarat,35,Female,750000,Post Graduate,5,Myntra,5,2025-08-01
+SID177,Rajasthan,42,Male,600000,High School,3,Amazon,3,2025-07-15
+SID178,Kerala,33,Female,720000,Graduate,7,Flipkart,4,2025-08-09
+SID179,Telangana,49,Male,1810000,PhD,2,Amazon,5,2025-06-26
+SID180,Andhra Pradesh,38,Female,710000,Post Graduate,6,Myntra,4,2025-07-31
+SID181,Madhya Pradesh,42,Male,440000,High School,4,Flipkart,2,2025-07-07
+SID182,Haryana,29,Female,780000,Post Graduate,6,Amazon,5,2025-08-02
+SID183,Punjab,54,Male,1260000,Graduate,2,Ajio,4,2025-06-20
+SID184,Bihar,36,Female,290000,High School,3,Flipkart,3,2025-07-25
+SID185,Odisha,41,Male,550000,Diploma,2,Amazon,4,2025-07-13
+SID186,Assam,29,Female,400000,Graduate,8,Myntra,4,2025-08-06
+SID187,Chhattisgarh,48,Male,860000,Post Graduate,3,Flipkart,5,2025-06-29
+SID188,Jharkhand,34,Female,500000,High School,5,Amazon,3,2025-07-18
+SID189,Delhi,31,Male,990000,Graduate,7,Flipkart,4,2025-08-12
+SID190,Maharashtra,63,Male,3300000,PhD,3,Amazon,5,2025-07-10
+SID191,Karnataka,44,Female,1460000,Post Graduate,4,Myntra,3,2025-07-06
+SID192,Tamil Nadu,29,Male,540000,Graduate,9,Amazon,4,2025-07-30
+SID193,Uttar Pradesh,41,Female,360000,Diploma,2,Flipkart,2,2025-07-24
+SID194,West Bengal,59,Male,1160000,Graduate,1,Ajio,4,2025-07-23
+SID195,Gujarat,37,Female,770000,Post Graduate,5,Myntra,5,2025-08-02
+SID196,Rajasthan,44,Male,620000,High School,3,Amazon,3,2025-07-17
+SID197,Kerala,34,Female,730000,Graduate,7,Flipkart,4,2025-08-10
+SID198,Telangana,51,Male,1910000,PhD,2,Amazon,5,2025-06-27
+SID199,Andhra Pradesh,39,Female,720000,Post Graduate,6,Myntra,4,2025-08-01
+SID200,Madhya Pradesh,43,Male,460000,High School,4,Flipkart,2,2025-07-08
+SID201,Maharashtra,28,,670000,Graduate,5,Other,3,2025-07-11
+SID202,Punjab,Twenty Two,Male,1300000,Graduate,3,Snapdeal,-,2025-06-14
+SID203,Goa,31,Female,850000,Post Graduate,7,Myntra,5,2025-08-01
+SID204,Manipur,29,Male,420000,Graduate,4,Amazon,-,2025-07-25
+SID205,Tamil nadu,35,Female,780000,PhD,6,Flipkart,4,2025-07-19
+SID206,Kerala,40,Male,1000000,Post-Graduate,2,Ajio,3,2025-06-30
+SID207,Haryana,24,Female,550000,Graduate,9,Amazon,4,2025-08-04
+SID208,Maharashtra,33,Male,900000,Diploma,4,Flipkart,4,2025-07-20
+SID209,Delhi,26,Prefer not to say,700000,Graduate,10,Myntra,Bad,2025-07-28
+SID210,Karnataka,45,Male,120000000,PhD,2,Other,5,2025-06-28

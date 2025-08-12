@@ -1,0 +1,211 @@
+SurveyID,Age,Gender,City,State,Monthly_Income_INR,Education_Level,Internet_Usage_Hours_per_Day,Preferred_E-commerce_Platform,Satisfaction_Score_1_to_5
+SID-001,28,Male,Mumbai,Maharashtra,55000,Graduate,4,Amazon,4
+SID-002,34,Female,Delhi,Delhi,65000,Post Graduate,5,Flipkart,5
+SID-003,22,Male,Bangalore,Karnataka,40000,Graduate,6,Myntra,3
+SID-004,45,Female,Chennai,Tamil Nadu,90000,PhD,3,Amazon,5
+SID-005,30,Male,Hyderabad,Telangana,75000,Post Graduate,7,Flipkart,4
+SID-006,25,Female,Pune,Maharashtra,45000,Graduate,5,Meesho,3
+SID-007,52,Male,Kolkata,West Bengal,120000,Post Graduate,2,Amazon,4
+SID-008,21,,Ahmedabad,Gujarat,30000,High School,8,Flipkart,2
+SID-009,38,Female,Jaipur,Rajasthan,60000,Graduate,4,Myntra,4
+SID-010,29,Male,Lucknow,Uttar Pradesh,50000,Graduate,6,Amazon,3
+SID-011,150,Male,Mumbai,Maharashtra,85000,Post Graduate,3,Flipkart,5
+SID-012,31,F,New Delhi,Delhi,70000,Graduate,5,Amazon,
+SID-013,24,Male,BLR,Karnataka,52000,B.Tech,7,Myntra,4
+SID-014,41,Female,chennai,Tamil Nadu,95000,PhD,2,amazon.in,5
+SID-015,33,M,Hyderbad,Telangana,80000,Post Graduate,6,Flip kart,4
+SID-016,27,Female,Pune,Maharashtra,48000,Graduate,4,Meesho,3
+SID-017,49,Male,Kolkata,West Bengal,130000,Post-Graduate,3,Amazon,4
+SID-018,23,Male,Ahmedabad,Gujarat,35000,Diploma,9,Flipcart,2
+SID-019,Thirty-Five,Female,Jaipur,Rajasthan,62000,Graduate,5,Myntra,4
+SID-020,26,Male,Lucknow,Uttar Pradesh,53000,Graduate,7,Amazon,3
+SID-021,32,Female,Mumbai,Maharashtra,60000,Graduate,5,Flipkart,5
+SID-022,39,Male,Delhi,Delhi,95000,Post Graduate,4,Amazon,4
+SID-023,20,Female,Bangalore,Karnataka,38000, pursuing grad,8,Myntra,3
+SID-024,47,Male,Chennai,Tamil Nadu,110000,PhD,2,Amazon,5
+SID-025,36,Female,Hyderabad,Telangana,88000,Post Graduate,5,Flipkart,4
+SID-026,29,Male,pune,Maharashtra,54000,Graduate,6,Meesho,
+SID-027,55,Female,Kolkata,West Bengal,140000,PG,2,Amazon,4
+SID-028,24,Male,Ahmedabad,Gujarat,40000,High School,10,Flipkart,2
+SID-029,42,Female,Jaipur,Rajasthan,70000,Graduate,4,Myntra Fashion,4
+SID-030,31,Male,LUCKNOW,Uttar Pradesh,58000,Graduate,5,Amazon,3
+SID-031,28,Female,Mumbai,Maharashtra,55000,Graduate,4,Flipkart,4
+SID-032,34,Male,Delhi,Delhi,65000,Post Graduate,5,Amazon,5
+SID-033,22,Female,Bangalore,Karnataka,40000,Graduate,6,Myntra,3
+SID-034,45,Male,Chennai,Tamil Nadu,90000,PhD,3,Amazon,5
+SID-035,30,Female,Hyderabad,Telangana,75000,Post Graduate,7,Flipkart,4
+SID-036,25,Male,Pune,Maharashtra,45000,Graduate,5,Meesho,3
+SID-037,52,Female,Kolkata,West Bengal,120000,Post Graduate,2,Amazon,4
+SID-038,21,Male,Ahmedabad,Gujarat,30000,High School,8,Flipkart,2
+SID-039,38,Female,Jaipur,Rajasthan,60000,Graduate,4,Myntra,4
+SID-040,29,Male,Lucknow,Uttar Pradesh,50000,Graduate,6,Amazon,3
+SID-041,33,Female,Mumbai,Maharashtra,85000,Post Graduate,3,Flipkart,5
+SID-042,31,Male,New Delhi,Delhi,70000,Graduate,5,Amazon,4
+SID-043,24,Female,BLR,Karnataka,52000,B.Tech,7,Myntra,4
+SID-044,41,Male,chennai,Tamil Nadu,95000,PhD,2,amazon.in,5
+SID-045,33,Female,Hyderbad,Telangana,80000,Post Graduate,6,Flip kart,4
+SID-046,27,Male,Pune,Maharashtra,48000,Graduate,4,Meesho,3
+SID-047,49,Female,Kolkata,West Bengal,130000,Post-Graduate,3,Amazon,4
+SID-048,23,Male,Ahmedabad,Gujarat,35000,Diploma,9,Flipcart,2
+SID-049,35,Female,Jaipur,Rajasthan,62000,Graduate,5,Myntra,4
+SID-050,26,Male,Lucknow,Uttar Pradesh,53000,Graduate,7,Amazon,3
+SID-051,32,Female,Mumbai,Maharashtra,60000,Graduate,5,Flipkart,5
+SID-052,39,Male,Delhi,Delhi,95000,Post Graduate,4,Amazon,4
+SID-053,20,Female,Bangalore,Karnataka,38000, pursuing grad,8,Myntra,3
+SID-054,47,Male,Chennai,Tamil Nadu,110000,PhD,2,Amazon,5
+SID-055,36,Female,Hyderabad,Telangana,88000,Post Graduate,5,Flipkart,4
+SID-056,29,Male,pune,Maharashtra,54000,Graduate,6,Meesho,3
+SID-057,55,Female,Kolkata,West Bengal,140000,PG,2,Amazon,4
+SID-058,24,Male,Ahmedabad,Gujarat,40000,High School,10,Flipkart,2
+SID-059,42,Female,Jaipur,Rajasthan,70000,Graduate,4,Myntra Fashion,4
+SID-060,31,Male,LUCKNOW,Uttar Pradesh,58000,Graduate,5,Amazon,3
+SID-061,28,Female,Mumbai,Maharashtra,55000,Graduate,4,Flipkart,4
+SID-062,34,Male,Delhi,Delhi,65000,Post Graduate,5,Amazon,5
+SID-063,22,Female,Bangalore,Karnataka,40000,Graduate,6,Myntra,3
+SID-064,45,Male,Chennai,Tamil Nadu,90000,PhD,3,Amazon,5
+SID-065,30,Female,Hyderabad,Telangana,75000,Post Graduate,7,Flipkart,4
+SID-066,25,Male,Pune,Maharashtra,45000,Graduate,5,Meesho,3
+SID-067,52,Female,Kolkata,West Bengal,120000,Post Graduate,2,Amazon,4
+SID-068,21,Male,Ahmedabad,Gujarat,30000,High School,8,Flipkart,2
+SID-069,38,Female,Jaipur,Rajasthan,60000,Graduate,4,Myntra,4
+SID-070,29,Male,Lucknow,Uttar Pradesh,50000,Graduate,6,Amazon,3
+SID-071,33,Female,Mumbai,Maharashtra,85000,Post Graduate,3,Flipkart,5
+SID-072,31,Male,New Delhi,Delhi,70000,Graduate,5,Amazon,4
+SID-073,24,Female,BLR,Karnataka,52000,B.Tech,7,Myntra,4
+SID-074,41,Male,chennai,Tamil Nadu,95000,PhD,2,amazon.in,5
+SID-075,33,Female,Hyderbad,Telangana,80000,Post Graduate,6,Flip kart,4
+SID-076,27,Male,Pune,Maharashtra,48000,Graduate,4,Meesho,3
+SID-077,49,Female,Kolkata,West Bengal,130000,Post-Graduate,3,Amazon,4
+SID-078,23,Male,Ahmedabad,Gujarat,35000,Diploma,9,Flipcart,2
+SID-079,35,Female,Jaipur,Rajasthan,62000,Graduate,5,Myntra,4
+SID-080,26,Male,Lucknow,Uttar Pradesh,53000,Graduate,7,Amazon,3
+SID-081,32,Female,Mumbai,Maharashtra,60000,Graduate,5,Flipkart,5
+SID-082,39,Male,Delhi,Delhi,95000,Post Graduate,4,Amazon,4
+SID-083,20,Female,Bangalore,Karnataka,38000, pursuing grad,8,Myntra,3
+SID-084,47,Male,Chennai,Tamil Nadu,110000,PhD,2,Amazon,5
+SID-085,36,Female,Hyderabad,Telangana,88000,Post Graduate,5,Flipkart,4
+SID-086,29,Male,pune,Maharashtra,54000,Graduate,6,Meesho,3
+SID-087,55,Female,Kolkata,West Bengal,140000,PG,2,Amazon,4
+SID-088,24,Male,Ahmedabad,Gujarat,40000,High School,10,Flipkart,2
+SID-089,42,Female,Jaipur,Rajasthan,70000,Graduate,4,Myntra Fashion,4
+SID-090,31,Male,LUCKNOW,Uttar Pradesh,58000,Graduate,5,Amazon,3
+SID-091,28,M,Mumbai,Maharashtra,55000,Graduate,4,Flipkart,4
+SID-092,34,F,Delhi,Delhi,65000,Post Graduate,5,Amazon,5
+SID-093,22,Male,Bangalore,Maharashtra,40000,Graduate,6,Myntra,3
+SID-094,45,Female,Chennai,Tamil Nadu,90000,PhD,3,Amazon,5
+SID-095,-5,Male,Hyderabad,Telangana,75000,Post Graduate,7,Flipkart,4
+SID-096,25,Female,Pune,Maharashtra,45000,Graduate,25,Meesho,3
+SID-097,52,Male,Kolkata,West Bengal,120000,Post Graduate,2,Amazon,4
+SID-098,21,Other,Ahmedabad,Gujarat,30000,High School,8,Flipkart,2
+SID-099,38,Female,Jaipur,Rajasthan,60000,Graduate,4,Myntra,4
+100,29,Male,Lucknow,Uttar Pradesh,Fifty Thousand,Graduate,6,Amazon,3
+SID-101,33,Female,Mumbai,Maharashtra,85000,Post Graduate,3,Flipkart,5
+SID-102,31,Male,New Delhi,Delhi,70000,Graduate,5,Amazon,4
+SID-103,24,Female,BLR,Karnataka,52000,B.Tech,7,Myntra,4
+SID-104,41,Male,chennai,Tamil Nadu,95000,PhD,2,amazon.in,5
+SID-105,33,Female,Hyderbad,Telangana,80000,Post Graduate,6,Flip kart,4
+SID-106,27,Male,Pune,Maharashtra,48000,Graduate,4,Meesho,3
+SID-107,49,Female,Kolkata,West Bengal,130000,Post-Graduate,3,Amazon,4
+SID-108,23,Male,Ahmedabad,Gujarat,35000,Diploma,9,Flipcart,2
+SID-109,35,Female,Jaipur,Rajasthan,62000,Graduate,5,Myntra,4
+SID-110,26,Male,Lucknow,Uttar Pradesh,53000,Graduate,7,Amazon,3
+SID-111,32,Female,Mumbai,Maharashtra,60000,Graduate,5,Flipkart,5
+SID-112,39,Male,Delhi,Delhi,95000,Post Graduate,4,Amazon,4
+SID-113,20,Female,Bangalore,Karnataka,38000, pursuing grad,8,Myntra,3
+SID-114,47,Male,Chennai,Tamil Nadu,110000,PhD,2,Amazon,5
+SID-115,36,Female,Hyderabad,Telangana,88000,Post Graduate,5,Flipkart,4
+SID-116,29,Male,pune,Maharashtra,54000,Graduate,6,Meesho,3
+SID-117,55,Female,Kolkata,West Bengal,140000,PG,2,Amazon,4
+SID-118,24,Male,Ahmedabad,Gujarat,40000,High School,10,Flipkart,2
+SID-119,42,Female,Jaipur,Rajasthan,70000,Graduate,4,Myntra Fashion,4
+SID-120,31,Male,LUCKNOW,Uttar Pradesh,58000,Graduate,5,Amazon,3
+SID-121,28,Female,Mumbai,Maharashtra,55000,Graduate,4,Flipkart,4
+SID-122,34,Male,Delhi,Delhi,65000,Post Graduate,5,Amazon,5
+SID-123,22,Female,Bangalore,Karnataka,40000,Graduate,6,Myntra,3
+SID-124,45,Male,Chennai,Tamil Nadu,90000,PhD,3,Amazon,5
+SID-125,30,Female,Hyderabad,Telangana,75000,Post Graduate,7,Flipkart,4
+SID-126,25,Male,Pune,Maharashtra,45000,Graduate,5,Meesho,3
+SID-127,52,Female,Kolkata,West Bengal,120000,Post Graduate,2,Amazon,4
+SID-128,21,Male,Ahmedabad,Gujarat,30000,High School,8,Flipkart,2
+SID-129,38,Female,Jaipur,Rajasthan,60000,Graduate,4,Myntra,4
+SID-130,29,Male,Lucknow,Uttar Pradesh,50000,Graduate,6,Amazon,3
+SID-131,33,Female,Mumbai,Maharashtra,85000,Post Graduate,3,Flipkart,5
+SID-132,31,Male,New Delhi,Delhi,70000,Graduate,5,Amazon,4
+SID-133,24,Female,BLR,Karnataka,52000,B.Tech,7,Myntra,4
+SID-134,41,Male,chennai,Tamil Nadu,95000,PhD,2,amazon.in,5
+SID-135,33,Female,Hyderbad,Telangana,80000,Post Graduate,6,Flip kart,4
+SID-136,27,Male,Pune,Maharashtra,48000,Graduate,4,Meesho,3
+SID-137,49,Female,Kolkata,West Bengal,130000,Post-Graduate,3,Amazon,4
+SID-138,23,Male,Ahmedabad,Gujarat,35000,Diploma,9,Flipcart,2
+SID-139,35,Female,Jaipur,Rajasthan,62000,Graduate,5,Myntra,4
+SID-140,26,Male,Lucknow,Uttar Pradesh,53000,Graduate,7,Amazon,3
+SID-141,32,Female,Mumbai,Maharashtra,60000,Graduate,5,Flipkart,5
+SID-142,39,Male,Delhi,Delhi,95000,Post Graduate,4,Amazon,4
+SID-143,20,Female,Bangalore,Karnataka,38000, pursuing grad,8,Myntra,3
+SID-144,47,Male,Chennai,Tamil Nadu,110000,PhD,2,Amazon,5
+SID-145,36,Female,Hyderabad,Telangana,88000,Post Graduate,5,Flipkart,4
+SID-146,29,Male,pune,Maharashtra,54000,Graduate,6,Meesho,3
+SID-147,55,Female,Kolkata,West Bengal,140000,PG,2,Amazon,4
+SID-148,24,Male,Ahmedabad,Gujarat,40000,High School,10,Flipkart,2
+SID-149,42,Female,Jaipur,Rajasthan,70000,Graduate,4,Myntra Fashion,4
+SID-150,31,Male,LUCKNOW,Uttar Pradesh,58000,Graduate,5,Amazon,3
+SID-151,28,Female,Mumbai,Maharashtra,55000,Graduate,4,Flipkart,4
+SID-152,34,Male,Delhi,Delhi,65000,Post Graduate,5,Amazon,5
+SID-153,22,Female,Bangalore,Karnataka,40000,Graduate,6,Myntra,3
+SID-154,45,Male,Chennai,Tamil Nadu,90000,PhD,3,Amazon,5
+SID-155,30,Female,Hyderabad,Telangana,75000,Post Graduate,7,Flipkart,4
+SID-156,25,Male,Pune,Maharashtra,45000,Graduate,5,Meesho,3
+SID-157,52,Female,Kolkata,West Bengal,120000,Post Graduate,2,Amazon,4
+SID-158,21,Male,Ahmedabad,Gujarat,30000,High School,8,Flipkart,2
+SID-159,38,Female,Jaipur,Rajasthan,60000,Graduate,4,Myntra,4
+SID-160,29,Male,Lucknow,Uttar Pradesh,50000,Graduate,6,Amazon,3
+SID-161,33,Female,Mumbai,Maharashtra,85000,Post Graduate,3,Flipkart,5
+SID-162,31,Male,New Delhi,Delhi,70000,Graduate,5,Amazon,4
+SID-163,24,Female,BLR,Karnataka,52000,B.Tech,7,Myntra,4
+SID-164,41,Male,chennai,Tamil Nadu,95000,PhD,2,amazon.in,5
+SID-165,33,Female,Hyderbad,Telangana,80000,Post Graduate,6,Flip kart,4
+SID-166,27,Male,Pune,Maharashtra,48000,Graduate,4,Meesho,3
+SID-167,49,Female,Kolkata,West Bengal,130000,Post-Graduate,3,Amazon,4
+SID-168,23,Male,Ahmedabad,Gujarat,35000,Diploma,9,Flipcart,2
+SID-169,35,Female,Jaipur,Rajasthan,62000,Graduate,5,Myntra,4
+SID-170,26,Male,Lucknow,Uttar Pradesh,53000,Graduate,7,Amazon,3
+SID-171,32,Female,Mumbai,Maharashtra,60000,Graduate,5,Flipkart,5
+SID-172,39,Male,Delhi,Delhi,95000,Post Graduate,4,Amazon,4
+SID-173,20,Female,Bangalore,Karnataka,38000, pursuing grad,8,Myntra,3
+SID-174,47,Male,Chennai,Tamil Nadu,110000,PhD,2,Amazon,5
+SID-175,36,Female,Hyderabad,Telangana,88000,Post Graduate,5,Flipkart,4
+SID-176,29,Male,pune,Maharashtra,54000,Graduate,6,Meesho,3
+SID-177,55,Female,Kolkata,West Bengal,140000,PG,2,Amazon,4
+SID-178,24,Male,Ahmedabad,Gujarat,40000,High School,10,Flipkart,2
+SID-179,42,Female,Jaipur,Rajasthan,70000,Graduate,4,Myntra Fashion,4
+SID-180,31,Male,LUCKNOW,Uttar Pradesh,58000,Graduate,5,Amazon,3
+SID-181,28,Male,Mumbai,Maharashtra,5000000,Graduate,4,Amazon,4
+SID-182,34,Female,Delhi,Delhi,65000,Post Graduate,5,Flipkart,5
+SID-183,22,Male,Bangalore,Karnataka,40000,Graduate,6,Myntra,3
+SID-184,45,Female,Chennai,Tamil Nadu,90000,PhD,-1,Amazon,5
+SID-185,30,Male,Hyderabad,Telangana,75000,Post Graduate,7,Flipkart,4
+SID-186,25,Female,Pune,Maharashtra,45000,Graduate,5,Meesho,3
+SID-187,52,Male,Kolkata,West Bengal,120000,Post Graduate,2,Amazon,4
+SID-188,21,Male,Ahmedabad,Gujarat,30000,High School,8,Flipkart,2
+SID-189,38,Female,Jaipur,Rajasthan,60000,Graduate,4,Myntra,4
+SID-190,29,Male,Lucknow,Uttar Pradesh,50000,Graduate,6,Amazon,3
+SID-191,33,Female,Mumbai,Maharashtra,85000,Post Graduate,3,Flipkart,5
+SID-192,31,Male,New Delhi,Delhi,70000,Graduate,5,Amazon,4
+SID-193,24,Female,BLR,Karnataka,52000,B.Tech,7,Myntra,4
+SID-194,41,Male,chennai,Tamil Nadu,95000,PhD,2,amazon.in,5
+SID-195,33,Female,Hyderbad,Telangana,80000,Post Graduate,6,Flip kart,4
+SID-196,27,Male,Pune,Maharashtra,48000,Graduate,4,Meesho,3
+SID-197,49,Female,Kolkata,West Bengal,130000,Post-Graduate,3,Amazon,4
+SID-198,23,Male,Ahmedabad,Gujarat,35000,Diploma,9,Flipcart,2
+SID-199,35,Female,Jaipur,Rajasthan,62000,Graduate,5,Myntra,4
+SID-200,26,Male,Lucknow,Uttar Pradesh,53000,Graduate,7,Amazon,3
+SID-201,32,Female,Mumbai,Maharashtra,60000,Graduate,5,Flipkart,5
+SID-202,39,Male,Delhi,Delhi,95000,Post Graduate,four,Amazon,4
+SID-203,20,Female,Bangalore,Karnataka,38000, pursuing grad,8,Myntra,3
+SID-204,47,Male,Chennai,Tamil Nadu,110000,PhD,2,Amazon,5
+SID-205,36,Female,Hyderabad,Telangana,88000,Post Graduate,5,Flipkart,4
+SID-206,29,Male,pune,Maharashtra,-2500,Graduate,6,Meesho,3
+SID-207,55,Female,Kolkata,West Bengal,140000,PG,2,Amazon,4
+SID-208,24,Male,Ahmedabad,Gujarat,40000,High School,10,Flipkart,2
+SID-209,42,Female,Jaipur,Rajasthan,70000,Graduate,4,Myntra Fashion,Good
+SID-210,31,Male,LUCKNOW,Uttar Pradesh,58000,Graduate,5,Amazon,7
